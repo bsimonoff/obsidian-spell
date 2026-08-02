@@ -11,7 +11,7 @@ status: VERIFIED
 - [x] Applied
 - [ ] Scrapped
 
-**Title Applied As:**Regeneron - Process Development Associate (Purification)
+Title Applied As: Regeneron - Process Development Associate (Purification)
 
 ---
 
