@@ -1,4 +1,4 @@
-﻿---
+---
 company: Eastman Chemical Company
 role: Entry Level Chemical Engineer (multiple specializations available)
 locations: Kingsport TN (HQ), Longview TX, Beaumont TX, Charleston SC, other US locations
