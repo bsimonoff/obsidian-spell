@@ -112,3 +112,86 @@ Every role in [[03 Projects/Job Application/Pipeline - Ranked by ChemE Fit.md]] 
 **Keep individual job files?** Yes — master doc is a summary/planning tool. Individual files stay detailed and updated with application status.
 
 ---
+
+## Pipeline Organization & Sorting (Post-Research Workflow)
+
+**Once opportunities are researched and individual files created, organize them immediately into Pipeline folders:**
+
+### Folder Structure
+```
+03 Projects/Job Application/Pipeline/
+├── Applied/          ← Roles you've already applied to
+├── In Process/       ← Roles still under consideration
+└── Scrapped/         ← Roles you've decided against
+```
+
+**Rule:** No homeless files in Pipeline root. Every opportunity file goes into Applied, In Process, or Scrapped.
+
+### Individual Opportunity File Format
+
+Each role gets its own `.md` file with this structure:
+
+**Header (YAML frontmatter):**
+```yaml
+---
+company: [Company Name]
+role: [Exact Job Title]
+location: [City, State]
+salary_range: $[min]-$[max]
+status: VERIFIED
+---
+```
+
+**Body (Application tracking section first):**
+```markdown
+## Application Status
+
+- [ ] Applied
+- [ ] Scrapped
+
+**Title Applied As:** ___________________________
+
+---
+
+# [Company] — [Job Title]
+
+[Rest of opportunity details...]
+```
+
+### Sorting Procedure
+
+**Step 1: Create individual files**
+- Extract each opportunity from research summaries into separate .md files
+- All files start in `Pipeline/In Process/` (default bucket for "undecided")
+
+**Step 2: User review & mark checkboxes**
+- Open each file in Obsidian
+- Read the opportunity details
+- Check **[ ] Applied** if you've submitted an application
+- Check **[ ] Scrapped** if you've decided against the role
+- Leave both unchecked = stays in In Process
+- Fill in "Title Applied As" field if applicable
+
+**Step 3: Auto-organize**
+- Read checkbox status from each file
+- Move to appropriate folder:
+  - **Applied ✅** → `Pipeline/Applied/`
+  - **Scrapped ✅** → `Pipeline/Scrapped/`
+  - **Both unchecked** → `Pipeline/In Process/` (already there)
+
+### Batch Research Consolidation (Best Practice)
+
+**After splicing opportunities from research summaries into individual files:**
+1. Move original research summary files to `Opportunities/` (for archival reference)
+2. Create individual opportunity files in Pipeline (per format above)
+3. Place ALL individual files in `In Process/` initially
+4. User sorts by marking checkboxes
+5. Auto-organize into Applied/Scrapped/In Process folders
+
+**Benefits:**
+- No homeless files cluttering Pipeline root
+- Clear default state for undecided opportunities
+- Simple sorting workflow (check a box, run sort)
+- Master research doc stays in Opportunities/ for later reference
+
+---
