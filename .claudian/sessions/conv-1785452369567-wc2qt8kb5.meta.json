@@ -4,8 +4,8 @@
   "title": "Fix female face anatomy",
   "titleGenerationStatus": "success",
   "createdAt": 1785452369567,
-  "updatedAt": 1785705077019,
-  "lastResponseAt": 1785705077019,
+  "updatedAt": 1785707967921,
+  "lastResponseAt": 1785707967921,
   "sessionId": "7783f87b-ccbd-4fda-b3b6-90419a82f20e",
   "providerState": {
     "providerSessionId": "7783f87b-ccbd-4fda-b3b6-90419a82f20e",
@@ -550,12 +550,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 8,
-    "cacheCreationInputTokens": 570,
-    "cacheReadInputTokens": 69411,
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 586,
+    "cacheReadInputTokens": 133997,
     "contextWindow": 200000,
-    "contextTokens": 69989,
-    "percentage": 35,
+    "contextTokens": 134593,
+    "percentage": 67,
     "contextWindowIsAuthoritative": true
   }
 }

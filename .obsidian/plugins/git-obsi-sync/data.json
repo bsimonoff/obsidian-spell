@@ -1,0 +1,14 @@
+{
+  "githubToken": "",
+  "githubUsername": "bsimonoff",
+  "repoName": "obsidian-spell",
+  "autoSync": true,
+  "syncIntervalMs": 10000,
+  "excludePatterns": [
+    ".obsidian/workspace",
+    ".obsidian/workspace.json",
+    ".obsidian/plugins/*/data.json"
+  ],
+  "lastSyncTime": 1785707837809,
+  "commitMessageTemplate": "sync: {{datetime}}"
+}
