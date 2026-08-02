@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783140623455-gsuppparo",
+  "providerId": "claude",
+  "title": "Migrate schedule to TaskNotes calendar system",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783140623455,
+  "updatedAt": 1783364283052,
+  "lastResponseAt": 1783364253602,
+  "sessionId": "dec2ec64-a3ec-448c-b198-e436d7e2bcd6",
+  "providerState": {
+    "providerSessionId": "dec2ec64-a3ec-448c-b198-e436d7e2bcd6"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 607,
+    "cacheReadInputTokens": 165162,
+    "contextWindow": 200000,
+    "contextTokens": 165777,
+    "percentage": 83,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ocr-extractor:extract-current-note": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ]
+}

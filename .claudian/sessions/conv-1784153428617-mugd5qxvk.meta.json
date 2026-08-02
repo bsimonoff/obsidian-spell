@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784153428617-mugd5qxvk",
+  "providerId": "claude",
+  "title": "Fix tModLoader mod sync disconnect",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784153428619,
+  "updatedAt": 1784495933486,
+  "lastResponseAt": 1784247865899,
+  "sessionId": "d0573fd7-1a1d-4fbf-b5dc-53fb4ca7241b",
+  "providerState": {
+    "providerSessionId": "d0573fd7-1a1d-4fbf-b5dc-53fb4ca7241b"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 131,
+    "cacheCreationInputTokens": 61896,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 62027,
+    "percentage": 6,
+    "contextWindowIsAuthoritative": true
+  }
+}

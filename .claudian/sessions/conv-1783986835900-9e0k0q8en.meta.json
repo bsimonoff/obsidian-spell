@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783986835900-9e0k0q8en",
+  "providerId": "claude",
+  "title": "Grade FE practice exam answers",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783986835900,
+  "updatedAt": 1784051865930,
+  "lastResponseAt": 1783988444229,
+  "sessionId": "5289410d-2067-45d1-aa22-2f756f529de7",
+  "providerState": {
+    "providerSessionId": "5289410d-2067-45d1-aa22-2f756f529de7"
+  },
+  "currentNote": "03 Projects/FE Exam Prep/Afternoon Session #2 (20 Q - Enhanced Rigor & Ethics).md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextTokens": 0,
+    "percentage": 0,
+    "contextWindowIsAuthoritative": true
+  }
+}

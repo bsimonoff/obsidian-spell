@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785098286517-9yecyor03",
+  "providerId": "claude",
+  "title": "Source 5 verified entry-level roles",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785098286517,
+  "updatedAt": 1785444042198,
+  "lastResponseAt": 1785443351576,
+  "sessionId": "3118955b-6f3c-410a-a650-2fe37fd4a915",
+  "providerState": {
+    "providerSessionId": "3118955b-6f3c-410a-a650-2fe37fd4a915"
+  },
+  "currentNote": "03 Projects/Job Application/Cover Letter Drafts/LinkedIn Outreach - Sana Saeed (Lockheed Martin).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 2016,
+    "cacheReadInputTokens": 159058,
+    "contextWindow": 200000,
+    "contextTokens": 161082,
+    "percentage": 81,
+    "contextWindowIsAuthoritative": true
+  }
+}

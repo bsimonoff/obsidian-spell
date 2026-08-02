@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784495954173-792tostlw",
+  "providerId": "claude",
+  "title": "Resume job application push",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784495954174,
+  "updatedAt": 1785098245637,
+  "lastResponseAt": 1785097336718,
+  "sessionId": "66818080-d771-47ff-b942-2a4798a492f5",
+  "providerState": {
+    "providerSessionId": "66818080-d771-47ff-b942-2a4798a492f5"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 98314,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 98324,
+    "percentage": 49,
+    "contextWindowIsAuthoritative": true
+  }
+}

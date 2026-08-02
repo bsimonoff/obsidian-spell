@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783974562980-d3dnhmiic",
+  "providerId": "claude",
+  "title": "Build FE Chem E practice exam with key",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783974562980,
+  "updatedAt": 1783980406100,
+  "lastResponseAt": 1783980376717,
+  "sessionId": "348fdb79-357d-452c-a504-62611bd9bf66",
+  "providerState": {
+    "providerSessionId": "348fdb79-357d-452c-a504-62611bd9bf66"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 6977,
+    "cacheReadInputTokens": 184344,
+    "contextWindow": 200000,
+    "contextTokens": 191329,
+    "percentage": 96,
+    "contextWindowIsAuthoritative": true
+  }
+}

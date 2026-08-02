@@ -1,0 +1,24 @@
+{
+  "id": "conv-1785444096242-rykv82216",
+  "providerId": "claude",
+  "title": "Draft cover letter for Agilent Process Engineer",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785444096242,
+  "updatedAt": 1785452338119,
+  "lastResponseAt": 1785444668481,
+  "sessionId": "9ed95ec9-3485-4f1b-8379-3dec55dc108c",
+  "providerState": {
+    "providerSessionId": "9ed95ec9-3485-4f1b-8379-3dec55dc108c"
+  },
+  "currentNote": "03 Projects/Job Application/9 Verified Entry-Level ChemE Opportunities (Research Summary).md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 712,
+    "cacheReadInputTokens": 21269,
+    "contextWindow": 200000,
+    "contextTokens": 21991,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}

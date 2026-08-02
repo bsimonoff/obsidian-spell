@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783128168660-7qhoh1eyr",
+  "providerId": "claude",
+  "title": "List files in 03 projects",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783128168665,
+  "updatedAt": 1783140529585,
+  "lastResponseAt": 1783140240125,
+  "sessionId": "722166ed-5b4f-4342-aade-f16b7170cd02",
+  "providerState": {
+    "providerSessionId": "722166ed-5b4f-4342-aade-f16b7170cd02"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 1177,
+    "cacheReadInputTokens": 167677,
+    "contextWindow": 200000,
+    "contextTokens": 168864,
+    "percentage": 84,
+    "contextWindowIsAuthoritative": true
+  }
+}

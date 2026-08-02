@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.hasTag("job-search")
+views:
+  - type: tasknotesKanban
+    name: Application Pipeline
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - status
+      - priority
+      - due
+    sort:
+      - property: priority
+        direction: DESC
+    options:
+      columnWidth: 300
+      hideEmptyColumns: false

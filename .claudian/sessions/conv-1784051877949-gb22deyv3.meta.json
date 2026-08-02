@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784051877949-gb22deyv3",
+  "providerId": "claude",
+  "title": "Transcribe FE exam images to markdown",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784051877949,
+  "updatedAt": 1784153377031,
+  "lastResponseAt": 1784064237530,
+  "sessionId": "448887c5-1081-4124-a950-47f2d9c84990",
+  "providerState": {
+    "providerSessionId": "448887c5-1081-4124-a950-47f2d9c84990"
+  },
+  "currentNote": "03 Projects/FE Exam Prep/Sample Exam/NCEES Practice Exam.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2023,
+    "cacheReadInputTokens": 208768,
+    "contextWindow": 1000000,
+    "contextTokens": 210793,
+    "percentage": 21,
+    "contextWindowIsAuthoritative": true
+  }
+}

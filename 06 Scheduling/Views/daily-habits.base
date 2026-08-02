@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.hasTag("habit")
+views:
+  - type: tasknotesKanban
+    name: Completion Status
+    groupBy:
+      property: status
+      direction: ASC
+    order:
+      - status
+      - scheduled
+    sort:
+      - property: scheduled
+        direction: ASC
+    options:
+      columnWidth: 280
+      hideEmptyColumns: false
