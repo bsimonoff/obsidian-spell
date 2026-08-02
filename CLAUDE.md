@@ -96,27 +96,6 @@ Spell/
 - Use `timeEstimate` for duration (in minutes), never `due` field
 - Mountain Time = UTC-6 (add 6 hours to local times)
 
-### FE Practice Exam Creation
-**When user asks for a practice exam (e.g., "build me a practice exam"):**
-- Consult [[05 Skills/FE Practice Exam Development Protocol.md]] FIRST
-- Follow the protocol: no spoonfed equations (reference handbook pages instead), verify ALL answers with exact calculations, adjust parameters for precision, work backwards from answer options if needed
-- **CRITICAL RULE:** Provide all property values/constants directly in the problem statement. Never require students to look up values in steam tables, psychrometric charts, or reference materials (different handbook editions → different values → answer mismatches)
-  - ❌ WRONG: "Steam enters at 100 kPa. Find outlet entropy." (Requires steam table lookup)
-  - ✓ RIGHT: "Steam enters at 100 kPa with s_f = 1.303, s_fg = 6.055 kJ/kg·K..." (All values provided)
-- **ORDER-OF-MAGNITUDE SANITY CHECK (CATCHES HIDDEN ERRORS):** Before detailed QC, verify calculated answer is within 10× range of answer options
-  - ❌ RED FLAG: Calculated = 5.4 kmol/s, all options ≤ 0.144 kmol/s (factor of 37) → **REPLACE PROBLEM**
-  - ❌ RED FLAG: Calculated = 20,396 W/m, all options ≤ 5,618 W/m (factor of 3.6) → **REPLACE PROBLEM**
-  - ✓ PASS: Calculated = 401 K, options include 364–578 K (within range, fixable)
-- **STRICT NUMERICAL PRECISION QC (NON-NEGOTIABLE):** For every numerical answer, calculate exact result and verify it matches the stated answer option to **< 1.0% error**
-  - **ANSWER KEY MUST SHOW CALCULATION:** Never just write "answer is C)". Always show: "Calculate: [formula] × [values] = [result] = **C) 420 K** ✓"
-  - If you can't show the calculation, you didn't verify it (this is how errors slip through)
-  - ❌ UNACCEPTABLE: Calculated = 401 K, nearest option = 420 K (4.7% error) — this is WRONG
-  - ✓ CORRECT: If calculated ≠ option within 1%, adjust problem parameters backward until exact
-  - Example: If calculation gives 401 K but you want answer = 420 K, adjust solar irradiance/temp and recalculate until exact
-- Every answer must be EXACT (≤1% error acceptable for conceptual Qs only)
-- 20 questions across multiple topics, with realistic parameters and balanced difficulty
-- Run full QC check (including order-of-magnitude filter) on all answers before finalizing
-
 ### Job Posting Verification (NON-NEGOTIABLE)
 **When researching, surfacing, or adding ANY job to the pipeline:** Consult [[05 Skills/Job Posting Verification Protocol.md]] and verify the posting is a REAL, LIVE requisition before presenting it as an opportunity.
 
