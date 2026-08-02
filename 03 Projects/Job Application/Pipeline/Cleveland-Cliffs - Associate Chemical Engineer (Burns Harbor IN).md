@@ -1,4 +1,4 @@
-﻿---
+---
 company: Cleveland-Cliffs Inc.
 role: Associate Chemical Engineer
 location: Burns Harbor, Indiana
