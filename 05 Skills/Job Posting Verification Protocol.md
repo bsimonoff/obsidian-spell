@@ -211,26 +211,46 @@ status: VERIFIED
 [Rest of opportunity details...]
 ```
 
-### Sorting Procedure
+### Weekly Sorting Procedure (You, Monday–Friday)
 
-**Step 1: Create individual files**
-- Extract each opportunity from research summaries into separate .md files
-- All files start in `Pipeline/In Process/` (default bucket for "undecided")
+**Every week, sort jobs from `Pending Review/` into your decision pipeline.**
 
-**Step 2: User review & mark checkboxes**
-- Open each file in Obsidian
-- Read the opportunity details
-- Check **[ ] Applied** if you've submitted an application
-- Check **[ ] Scrapped** if you've decided against the role
-- Leave both unchecked = stays in In Process
-- Fill in "Title Applied As" field if applicable
+**Step 1: Review agent's additions (Monday–Tuesday)**
+- Open Obsidian and navigate to `Pipeline/Pending Review/`
+- **Skim each file:**
+  - Read company name, role title, location, salary, verification status
+  - Note if it's a fit (location, industry, level match your targets?)
+  - Note if it's a reach (different major, salary too low, location mismatch)
 
-**Step 3: Auto-organize**
-- Read checkbox status from each file
-- Move to appropriate folder:
-  - **Applied ✅** → `Pipeline/Applied/`
-  - **Scrapped ✅** → `Pipeline/Scrapped/`
-  - **Both unchecked** → `Pipeline/In Process/` (already there)
+**Step 2: Make a decision for each job (Tuesday–Thursday)**
+
+For each file in `Pending Review/`, decide one of:
+
+| Decision | Action | Destination |
+|----------|--------|-------------|
+| **Strong fit** | I'll probably apply | Move to `Pipeline/In Process/` |
+| **Weak fit** | Not right for me | Move to `Pipeline/Scrapped/` |
+| **Already applied** | I've submitted an app | Mark `[x] Applied` + move to `Pipeline/Applied/` |
+
+**Step 3: Move files & update checkboxes**
+
+For each file:
+1. Open it in Obsidian
+2. Update the **Application Status** section:
+   - If applying: leave both checkboxes unchecked (stays in In Process)
+   - If scrapping: check `[x] Scrapped`
+   - If already applied: check `[x] Applied` + fill in "Title Applied As" field
+3. **Move the file** to the correct folder:
+   ```
+   Pipeline/Pending Review/[filename].md 
+   → Pipeline/[Applied|In Process|Scrapped]/[filename].md
+   ```
+
+**Step 4: Clean up (Friday)**
+- Verify `Pipeline/Pending Review/` is empty (all jobs sorted)
+- If any files linger → decide by EOW or they stay until next review cycle
+
+**Goal:** `Pending Review/` should be **empty by Friday end-of-day**, with all jobs sorted into their appropriate status folder.
 
 ### Batch Research Consolidation (Best Practice)
 
