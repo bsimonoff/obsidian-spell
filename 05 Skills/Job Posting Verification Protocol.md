@@ -138,6 +138,48 @@ Every role in [[03 Projects/Job Application/Pipeline - Ranked by ChemE Fit.md]] 
 3. **You move** files to `Applied/`, `In Process/`, or `Scrapped/` based on your decision
 4. `Pending Review/` should be empty by end of week (all jobs reviewed and sorted)
 
+### Automation Workflow: Agent Job Discovery (Monday 8 AM MST)
+
+**What happens automatically:**
+
+**Every Monday at 8:00 AM MST**, an Anthropic agent:
+1. **Searches job boards** for entry-level ChemE roles in your target cities (Denver, Seattle, NYC, Chicago) + international opportunities
+2. **Verifies each posting** using the workflow below (live req, entry level, ChemE fit)
+3. **Checks for duplicates** against existing jobs in Pipeline (Applied, In Process, Scrapped)
+4. **Stages new jobs** in `Pipeline/Pending Review/` with verification metadata
+5. **Commits to git** (auto-synced locally via git-obsi-sync)
+
+**You receive a summary** of what was added to `Pending Review/` — review and sort by end of week.
+
+---
+
+### Duplicate Detection Workflow (Agent + You)
+
+**Agent's duplicate check (automatic):**
+
+Before adding any job to `Pending Review/`, the agent cross-references:
+- **Company + Role title** — exact match is duplicate (skip)
+- **Company + Req ID** — exact match is duplicate (skip)
+- **Company + Location** — if a nearly identical role is already in Applied/In Process/Scrapped, flag as potential duplicate
+- **Apply URL** — if the URL already exists in Pipeline, skip
+
+**Format for duplicates:** If a job is discovered that duplicates an existing one, the agent notes it in git commit message:
+```
+agent: skip duplicate — [Company] [Role] (req [ID]) already in Pipeline/In Process
+```
+
+**Your manual catch (for edge cases):**
+
+If you spot a duplicate in `Pending Review/` that the agent missed:
+1. **Delete the duplicate file** from `Pending Review/`
+2. **Check the original** — update it if job details changed (salary, location, deadline)
+3. **Commit to git** with message:
+   ```
+   chore: remove duplicate [Company] [Role] — consolidated with existing entry
+   ```
+
+---
+
 ### Individual Opportunity File Format
 
 Each role gets its own `.md` file with this structure:
