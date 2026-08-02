@@ -1,13 +1,17 @@
-# Job Posting Verification Protocol
+# Job Posting Verification & Pipeline Management Protocol
 
 **Cross-reference**: See [[CLAUDE.md]] → "Job Posting Verification (NON-NEGOTIABLE)" for when to use.
 Also see [[03 Projects/Job Application/Pipeline - Ranked by ChemE Fit.md]] for how verified status is tracked.
+
+**Automation**: Monday 8 AM MST, an agent discovers jobs, checks for duplicates, and stages them in `Pipeline/Pending Review/` for your review and sorting.
 
 ---
 
 ## Why this exists
 
 On July 19, 2026 a research pass surfaced several "strong Tier 1" roles that turned out to have **no entry-level opening actually posted** (Solid Power = Process Engineer II/Senior only; AGC Biologics = Senior only) and one whose posting **didn't list ChemE as an eligible major** (Blue Origin R58494 = mechanical/aerospace only). The lesson: *knowing a company hires for a role type is not evidence that a matching req is open right now.* This protocol prevents that error.
+
+Additionally, **duplicate jobs waste time and clutter the pipeline.** This protocol includes a staging workflow to prevent duplicates before they reach your decision queue.
 
 **Prime rule:** Never present a job as a real opportunity until you've confirmed a live requisition that matches the candidate's **level** and **major**. A drafted cover letter proves nothing about whether the posting exists.
 
