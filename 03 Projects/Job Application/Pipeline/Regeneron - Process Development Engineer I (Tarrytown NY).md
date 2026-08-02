@@ -12,7 +12,19 @@ status: " VERIFIED 2026-07-26 (multiple roles, live on BioSpace + Regeneron care
 - [x] Applied
 - [ ] Scrapped
 
-# Regeneron Pharmaceuticals  Process Development Engineer I
+**Title Applied As:** 
+- Process Development Associate, Analytical Sciences: SBST (R47642)
+- Process Development Associate, SBST (R47542)
+- Process Development Associate, Purification Development (R48476)
+
+**Application Tracking:**
+| Role | Req ID | Status | Date |
+|------|--------|--------|------|
+| Analytical Sciences: SBST | R47642 | Application Reviewed | July 29, 2026 |
+| SBST (General) | R47542 | Application Received | July 26, 2026 |
+| Purification Development | R48476 | Application Received | July 26, 2026 |
+
+# Regeneron Pharmaceuticals — Process Development Engineer I
 
 
 ---
