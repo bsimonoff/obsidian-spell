@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 Projects/Job Application/Pipeline/In Process/Manual Research/AbbVie - Associate Engineer (Chicago).md",
+                "file": "03 Projects/Job Application/Pipeline/In Process/Auto Research/CRB - Process Engineer I (Denver, CO).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AbbVie - Associate Engineer (Chicago)"
+              "title": "CRB - Process Engineer I (Denver, CO)"
             }
           }
         ]
@@ -139,8 +139,14 @@
       "ocr-extractor:OCR Extractor": false
     }
   },
-  "active": "b6af00bc2f5595fd",
+  "active": "468911e8e227c2ba",
   "lastOpenFiles": [
+    "03 Projects/Job Application/GitHub Agent Credentials.md",
+    "03 Projects/Job Application/Pipeline/In Process/Auto Research/CRB - Process Engineer I (Denver, CO).md",
+    "03 Projects/Job Application/Pipeline/In Process/Manual Research/AbbVie - Associate Engineer (Chicago).md",
+    "05 Skills/Job Agent Prompt.md",
+    "05 Skills/Job Posting Verification Protocol.md.tmp.4172.d7251a378da3",
+    "03 Projects/Job Application/GitHub Agent Credentials.md.tmp.4172.91c338c1dc53",
     "03 Projects/Job Application/Pipeline/Pending Review",
     "05 Skills/Job Posting Verification Protocol.md.tmp.4172.752dd3f8ba33",
     "03 Projects/Job Application/Pipeline/In Process/Manual Research/Terumo BCT - Engineer I Manufacturing (Denver CO).md",
@@ -164,12 +170,9 @@
     "03 Projects/Job Application/Pipeline/In Process/Manual Research/Chevron - Downstream & Chemicals Engineering Dev.md",
     "03 Projects/Job Application/Pipeline/In Process/Manual Research/Amgen - Process Development Engineer (Thousand Oaks).md",
     "03 Projects/Job Application/Pipeline/In Process/Manual Research/Agilent - Process Validation Engineer (Boulder).md",
-    "03 Projects/Job Application/Pipeline/In Process/Manual Research/AbbVie - Associate Engineer (Chicago).md",
     "03 Projects/Job Application/Pipeline/Regeneron - Process Development Associate (SBST).md",
     "03 Projects/Job Application/Pipeline/Regeneron - Process Development Associate (Purification).md",
     "03 Projects/Job Application/Pipeline/Chevron Phillips - GRAD Program.md",
-    "03 Projects/Job Application/Opportunities/9 Verified Entry-Level ChemE Opportunities (Research Summary).md",
-    "03 Projects/Job Application/Pipeline/Chevron - Downstream & Chemicals Engineering Dev.md",
     "03 Projects/Job Application/Pipeline/Regeneron - Process Development Engineer I (Tarrytown NY).md.tmp.11732.e336be3f4031",
     "03 Projects/Job Application/Pipeline/Scrapped",
     "03 Projects/Job Application/General Dynamics Electric Boat - 2026 College Graduate Chemical Engineering (Groton CT).md.tmp.11732.c473e1f4bf3f",
@@ -183,9 +186,6 @@
     "00 Notes/Attachments/Pasted image 20260714115527.png",
     "00 Notes/Attachments/Pasted image 20260714115517.png",
     "00 Notes/Attachments/Pasted image 20260714115504.png",
-    "03 Projects/Job Application/Reference Files",
-    "03 Projects/Job Application/Pipeline/Researching",
-    "03 Projects/Job Application/Pipeline/In Process",
-    "03 Projects/Job Application/Pipeline/Applied"
+    "03 Projects/Job Application/Reference Files"
   ]
 }
