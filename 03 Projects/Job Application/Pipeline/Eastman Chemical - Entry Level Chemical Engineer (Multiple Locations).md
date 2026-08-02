@@ -11,7 +11,7 @@ status: " VERIFIED 2026-07-26 (multiple openings via aggregators)"
 ## Application Status
 
 - [ ] Applied
-- [ ] Scrapped
+- [x] Scrapped
 
 **Title Applied As:** ___________________________
 

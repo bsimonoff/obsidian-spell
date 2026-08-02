@@ -1,4 +1,4 @@
-﻿---
+---
 company: General Dynamics Electric Boat
 role: 2026 College Graduate - Chemical Engineering
 location: Groton, Connecticut
