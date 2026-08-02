@@ -1,4 +1,4 @@
-﻿---
+---
 company: Regeneron
 role: Process Dev Associate SBST
 location: Tarrytown, NY

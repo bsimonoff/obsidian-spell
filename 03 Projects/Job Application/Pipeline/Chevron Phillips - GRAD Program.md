@@ -1,4 +1,4 @@
-﻿---
+---
 company: Chevron Phillips
 role: Rotational Program
 location: Texas
