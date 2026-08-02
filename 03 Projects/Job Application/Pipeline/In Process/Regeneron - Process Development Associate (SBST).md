@@ -8,7 +8,7 @@ status: VERIFIED
 
 ## Application Status
 
-- [ ] Applied
+- [x] Applied
 - [ ] Scrapped
 
 **Title Applied As:** ___________________________

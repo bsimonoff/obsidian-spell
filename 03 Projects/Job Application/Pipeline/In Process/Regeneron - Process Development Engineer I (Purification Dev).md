@@ -1,4 +1,4 @@
-﻿---
+---
 company: Regeneron
 role: Process Dev Engineer I
 location: Tarrytown, NY
@@ -8,7 +8,7 @@ status: VERIFIED
 
 ## Application Status
 
-- [ ] Applied
+- [x] Applied
 - [ ] Scrapped
 
 **Title Applied As:** ___________________________
