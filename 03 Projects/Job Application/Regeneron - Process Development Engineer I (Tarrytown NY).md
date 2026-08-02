@@ -1,4 +1,4 @@
-﻿---
+---
 company: Regeneron Pharmaceuticals
 role: Process Development Engineer I (multiple specializations)
 location: Tarrytown, New York (NYC metro)
@@ -9,7 +9,7 @@ status: "âœ… VERIFIED 2026-07-26 (multiple roles, live on BioSpace + Regener
 ---
 
 **Application Status:**
-- [ ] Applied
+- [x] Applied
 - [ ] Scrapped
 
 # Regeneron Pharmaceuticals â€” Process Development Engineer I
