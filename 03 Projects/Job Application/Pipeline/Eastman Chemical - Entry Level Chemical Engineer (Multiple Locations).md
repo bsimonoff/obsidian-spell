@@ -4,31 +4,31 @@ role: Entry Level Chemical Engineer (multiple specializations available)
 locations: Kingsport TN (HQ), Longview TX, Beaumont TX, Charleston SC, other US locations
 tier: Tier 1 (Large chemical corp, established stability)
 fit: Direct ChemE match
-salary_range: "$67,000â€“$95,000 (typical for entry-level process engineer roles)"
-status: "âœ… VERIFIED 2026-07-26 (multiple openings via aggregators)"
+salary_range: "$67,000$95,000 (typical for entry-level process engineer roles)"
+status: " VERIFIED 2026-07-26 (multiple openings via aggregators)"
 ---
 
 **Application Status:**
 - [ ] Applied
 - [ ] Scrapped
 
-# Eastman Chemical Company â€” Entry Level Chemical Engineer
+# Eastman Chemical Company  Entry Level Chemical Engineer
 
-**Cross-reference:** See [[CLAUDE.md]] â†’ "Job Posting Verification Protocol".
+**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol".
 
 ---
 
 ## Verification Status
 
-âœ… **VERIFIED** â€” 2026-07-26  
-ðŸ”Ž **Verification path:** 
+ **VERIFIED**  2026-07-26  
+ **Verification path:** 
    - Glassdoor (6+ open entry-level positions as of July 2026)
-   - ZipRecruiter ($67kâ€“$130k salary range)
+   - ZipRecruiter ($67k$130k salary range)
    - Indeed (multiple "Entry Level Chemical Engineer" listings)
    - Eastman careers portal: https://jobs.eastman.com  
-ðŸ“Œ **Req IDs:** Multiple (varies by location/specialization)  
-ðŸŽ¯ **Entry-level confirmed:** Yes â€” explicitly "Entry Level" roles + recent grad positions  
-ðŸ“ **Location flexibility:** Multiple US locations (choose based on your preference)
+ **Req IDs:** Multiple (varies by location/specialization)  
+ **Entry-level confirmed:** Yes  explicitly "Entry Level" roles + recent grad positions  
+ **Location flexibility:** Multiple US locations (choose based on your preference)
 
 ---
 
@@ -73,11 +73,11 @@ Eastman is a global specialty chemical company producing advanced materials for 
 
 ## Compensation & Benefits
 
-**Salary:** $67,000â€“$95,000 (typical for entry-level process engineer)  
+**Salary:** $67,000$95,000 (typical for entry-level process engineer)  
 - Your exact offer depends on location, facility size, and interview performance
 - Kingsport (larger, HQ) often offers at mid-range; remote locations may start at low end
 
-**Signing bonus:** Typically $2â€“5k (negotiable for top candidates)
+**Signing bonus:** Typically $25k (negotiable for top candidates)
 
 **Benefits:**
 - Comprehensive health insurance (medical, dental, vision)
@@ -95,27 +95,27 @@ Eastman is a global specialty chemical company producing advanced materials for 
 
 ## Why This Is a Good Fit
 
-âœ… **Direct ChemE application:** Eastman is 100% chemical manufacturing; no translation needed  
-âœ… **Established, stable company:** Public company (NYSE: EMN); solid financials; not startup risk  
-âœ… **Multiple entry-level roles:** 6+ openings = better odds of getting an offer  
-âœ… **Pension + solid benefits:** Rare perk for new grads; shows company values retention  
-âœ… **Technical credibility:** Eastman is respected in chemical industry; 2 years here = resume credential  
-âœ… **Location flexibility:** Multiple sites let you choose lifestyle (Kingsport = smaller city, Charleston = coastal, Texas = growing market)  
-âœ… **Salary competitive:** $67â€“95k meets your $70k+ target
+ **Direct ChemE application:** Eastman is 100% chemical manufacturing; no translation needed  
+ **Established, stable company:** Public company (NYSE: EMN); solid financials; not startup risk  
+ **Multiple entry-level roles:** 6+ openings = better odds of getting an offer  
+ **Pension + solid benefits:** Rare perk for new grads; shows company values retention  
+ **Technical credibility:** Eastman is respected in chemical industry; 2 years here = resume credential  
+ **Location flexibility:** Multiple sites let you choose lifestyle (Kingsport = smaller city, Charleston = coastal, Texas = growing market)  
+ **Salary competitive:** $6795k meets your $70k+ target
 
 ---
 
 ## Potential Concerns
 
-âš ï¸ **Shift work:** Many Eastman facilities operate 24/7; entry-level roles may require rotating shifts (8-hour, 12-hour, or weird schedules). Verify schedule in interviews.  
-âš ï¸ **Location:** Most sites are in smaller towns (Kingsport TN, Longview TX, Beaumont TX, Charleston SC). Not ideal if you want major metro vibe. However:
+ **Shift work:** Many Eastman facilities operate 24/7; entry-level roles may require rotating shifts (8-hour, 12-hour, or weird schedules). Verify schedule in interviews.  
+ **Location:** Most sites are in smaller towns (Kingsport TN, Longview TX, Beaumont TX, Charleston SC). Not ideal if you want major metro vibe. However:
    - Kingsport has growing tech/professional community
    - Charleston is a beautiful, growing city
    - Texas locations near Houston (2+ hrs)
    - Cost of living is much lower than Denver/Seattle/NYC
-âš ï¸ **Chemical manufacturing environment:** You'll be in plants with heat, noise, industrial hazards. PPE required. Not for everyone.  
-âš ï¸ **Broad salary range:** Glassdoor shows $67â€“130k, but entry-level is lower end ($67â€“80k). Don't assume upper range.  
-âš ï¸ **Industry maturity:** Specialty chemicals is mature (not as fast-growing as tech/biotech); career growth is steady but not explosive.
+ **Chemical manufacturing environment:** You'll be in plants with heat, noise, industrial hazards. PPE required. Not for everyone.  
+ **Broad salary range:** Glassdoor shows $67130k, but entry-level is lower end ($6780k). Don't assume upper range.  
+ **Industry maturity:** Specialty chemicals is mature (not as fast-growing as tech/biotech); career growth is steady but not explosive.
 
 ---
 
@@ -123,10 +123,10 @@ Eastman is a global specialty chemical company producing advanced materials for 
 
 **Primary platforms:**
 1. **Eastman careers portal:** https://jobs.eastman.com/go/Engineering/2388200/
-2. **Glassdoor:** Search "Eastman Chemical" â†’ Entry Level Chemical Engineer
+2. **Glassdoor:** Search "Eastman Chemical"  Entry Level Chemical Engineer
 3. **ZipRecruiter:** Search "Eastman Chemical" + "Chemical Engineer" + location
 4. **Indeed:** Search "Eastman" + "Chemical Engineer"
-5. **LinkedIn:** Search "Eastman Chemical" â†’ Jobs â†’ filter "Entry Level"
+5. **LinkedIn:** Search "Eastman Chemical"  Jobs  filter "Entry Level"
 
 **Recommendation:** Check Eastman careers first (most current), then cross-reference on Glassdoor/Indeed to confirm opening is still live.
 
@@ -137,12 +137,12 @@ Eastman is a global specialty chemical company producing advanced materials for 
 | Milestone | Est. Date |
 |-----------|-----------|
 | **Application deadline** | Rolling; check careers portal every 2 weeks |
-| **Online application** | Straightforward; 10â€“15 min |
-| **Initial phone screen** | 1â€“2 weeks |
-| **Technical phone interview** | Week 2â€“3 (process questions, problem-solving) |
-| **On-site or final interview** | Week 3â€“4 (if selected; may require travel to facility) |
-| **Offer** | Week 4â€“5 |
-| **Start date** | Flexible; negotiate for Juneâ€“August 2026 |
+| **Online application** | Straightforward; 1015 min |
+| **Initial phone screen** | 12 weeks |
+| **Technical phone interview** | Week 23 (process questions, problem-solving) |
+| **On-site or final interview** | Week 34 (if selected; may require travel to facility) |
+| **Offer** | Week 45 |
+| **Start date** | Flexible; negotiate for JuneAugust 2026 |
 
 ---
 
@@ -152,13 +152,13 @@ Eastman is a global specialty chemical company producing advanced materials for 
 - [ ] **Glassdoor reviews:** Search "Eastman Chemical" + "Entry Level Engineer" (overall reviews are solid; look for shift-schedule comments).
 - [ ] **Process fundamentals refresh:** Unit operations (reactors, distillation, crystallization), process safety, troubleshooting basics.
 - [ ] **Shift schedule research:** Ask in interviews: "What's the typical shift rotation for an entry-level engineer in this facility?"
-- [ ] **Relocation willingness:** Decide whether you're comfortable in a smaller city for 1â€“2 years (career building investment).
+- [ ] **Relocation willingness:** Decide whether you're comfortable in a smaller city for 12 years (career building investment).
 
 ---
 
 ## Cover Letter Angle
 
-**Positioning:** "I want to apply chemical engineering at scale â€” to take unit operations from the textbook and run them in real manufacturing environments. Eastman Chemical's diverse portfolio of specialty materials, from coatings to advanced fibers, is exactly where I see my skills being most valuable. I'm ready to contribute to process optimization, troubleshooting, and continuous improvement from day one. I'm attracted to Eastman's strong technical culture and commitment to developing new engineers."
+**Positioning:** "I want to apply chemical engineering at scale  to take unit operations from the textbook and run them in real manufacturing environments. Eastman Chemical's diverse portfolio of specialty materials, from coatings to advanced fibers, is exactly where I see my skills being most valuable. I'm ready to contribute to process optimization, troubleshooting, and continuous improvement from day one. I'm attracted to Eastman's strong technical culture and commitment to developing new engineers."
 
 **Key points to hit:**
 - Interest in *real manufacturing* (not just design or theory)
@@ -172,11 +172,11 @@ Eastman is a global specialty chemical company producing advanced materials for 
 ## Salary Negotiation Talking Points
 
 **If you get an offer:**
-- Typical entry-level offer: $68â€“78k base
+- Typical entry-level offer: $6878k base
 - Negotiation script: "I'm excited about this offer. Based on my ChemE background and [any relevant projects/GPA], would $75k [or specific number] be possible?"
 - Leverage: GPA 3.5+, relevant projects/internships, leadership roles, quick learning
 - Non-monetary: Ask about:
-  - Signing bonus ($3â€“5k possible)
+  - Signing bonus ($35k possible)
   - Shift differential specifics (night/weekend premium)
   - Relocation package details
   - Tuition reimbursement limits
@@ -188,25 +188,25 @@ Eastman is a global specialty chemical company producing advanced materials for 
 
 ### Kingsport, Tennessee (Headquarters, largest site)
 - **Vibe:** Small city (50k+), growing professional community
-- **Cost of living:** Low ($1,200â€“1,400 rent for 1BR)
+- **Cost of living:** Low ($1,2001,400 rent for 1BR)
 - **Proximity to:** Nashville (2 hrs), Asheville NC (2 hrs), Virginia mountains nearby
 - **Culture:** Traditional manufacturing town; technical workforce valued
 
 ### Longview, Texas
 - **Vibe:** Growing city (80k+), petrochemical hub
-- **Cost of living:** Low ($1,100â€“1,300 rent)
+- **Cost of living:** Low ($1,1001,300 rent)
 - **Proximity to:** Dallas (2.5 hrs), Lake Palestine, Caddo Lake for outdoor activities
 - **Culture:** Oil & gas heritage; industrial but modernizing
 
 ### Charleston, South Carolina
 - **Vibe:** Growing, vibrant city (150k+), historic charm, coastal
-- **Cost of living:** Moderate ($1,400â€“1,700 rent), but beautiful
+- **Cost of living:** Moderate ($1,4001,700 rent), but beautiful
 - **Proximity to:** Beach (30 min), Hilton Head, Savannah, outdoor recreation
 - **Culture:** Tech/manufacturing boom; young professional demographic growing
 
 ### Beaumont, Texas
 - **Vibe:** Smaller city (120k+), petrochemical focus
-- **Cost of living:** Low ($1,000â€“1,200 rent)
+- **Cost of living:** Low ($1,0001,200 rent)
 - **Proximity to:** Gulf Coast beach (1 hr), Houston (1.5 hrs)
 - **Culture:** Petrochemical town; industrial, tight-knit engineering community
 
@@ -216,11 +216,11 @@ Eastman is a global specialty chemical company producing advanced materials for 
 
 ## Next Steps
 
-1. **Choose 1â€“3 preferred locations** (or apply to all initially; narrow after phone screen).
+1. **Choose 13 preferred locations** (or apply to all initially; narrow after phone screen).
 2. **Visit Eastman careers portal:** https://jobs.eastman.com
 3. **Filter by location and "Entry Level Chemical Engineer"** or "Process Engineer I"
-4. **Confirm each posting is live** (check date posted; within last 2â€“4 weeks is good).
-5. **Read 5â€“10 Glassdoor reviews** (focus on shift schedules, work/life balance, new grad treatment).
+4. **Confirm each posting is live** (check date posted; within last 24 weeks is good).
+5. **Read 510 Glassdoor reviews** (focus on shift schedules, work/life balance, new grad treatment).
 6. **Tailor cover letter** for location and specialization (if you can tell from posting).
 7. **Apply via Eastman careers portal** (most direct; allows you to list location preferences).
 8. **Update [[Application Tracker.md]]** when you submit.
@@ -231,7 +231,7 @@ Eastman is a global specialty chemical company producing advanced materials for 
 
 **Apply to Eastman if:**
 - You want to work in real manufacturing (not startups/tech)
-- You're willing to relocate to a smaller city for 1â€“2 years
+- You're willing to relocate to a smaller city for 12 years
 - You value stability and traditional benefits (pension!)
 - You're comfortable with shift work if required
 - You prefer a structured, established company over high growth
@@ -253,6 +253,6 @@ Eastman is a global specialty chemical company producing advanced materials for 
 
 - Eastman careers portal: https://jobs.eastman.com/go/Engineering/2388200/
 - Glassdoor reviews (Eastman Chemical): Positive overall; check "Entry Level Engineer" comments
-- ZipRecruiter salary data: $67kâ€“$130k (entry-level = $67â€“85k)
+- ZipRecruiter salary data: $67k$130k (entry-level = $6785k)
 - Company info: Eastman Chemical (NYSE: EMN); public, established 1920; specialty chemicals focus
 

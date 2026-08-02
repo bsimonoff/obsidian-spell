@@ -1,42 +1,42 @@
----
+﻿---
 company: Terumo BCT
 role: Engineer I - Manufacturing / Process Engineering
 location: Lakewood, Colorado (Denver metro)
-tier: Tier 1 (Medical Device Manufacturing â€” ChemE-adjacent)
+tier: Tier 1 (Medical Device Manufacturing  ChemE-adjacent)
 fit: Process/manufacturing engineering for blood/cell collection/processing devices
-salary_range: "$65,000â€“$95,000 (estimated for entry-level process engineer)"
-status: "âœ… VERIFIED 2026-07-26 (company + multiple open roles)"
+salary_range: "$65,000$95,000 (estimated for entry-level process engineer)"
+status: " VERIFIED 2026-07-26 (company + multiple open roles)"
 ---
 
 **Application Status:**
 - [ ] Applied
 - [ ] Scrapped
 
-# Terumo BCT â€” Engineer I Manufacturing
+# Terumo BCT  Engineer I Manufacturing
 
-**Cross-reference:** See [[CLAUDE.md]] â†’ "Job Posting Verification Protocol" (already in your pipeline as [[Terumo BCT - Engineer I Manufacturing & Process (Lakewood, CO)]]; re-verified today).
+**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol" (already in your pipeline as [[Terumo BCT - Engineer I Manufacturing & Process (Lakewood, CO)]]; re-verified today).
 
 ---
 
 ## Verification Status
 
-âœ… **VERIFIED** â€” 2026-07-26  
-ðŸ”Ž **Verification path:** 
+ **VERIFIED**  2026-07-26  
+ **Verification path:** 
    - Terumo BCT careers portal: https://careers.terumobct.com
    - ZipRecruiter (52 open roles as of July 2026)
    - Indeed (multiple engineering listings)
    - LinkedIn
    - Built In Colorado  
-ðŸ“Œ **Location:** Lakewood, Colorado (Denver metro, ~15 min west of downtown) â€” **YOUR TARGET CITY âœ“**  
-ðŸŽ¯ **Entry-level roles available:** Multiple Engineer I positions open  
-ðŸŽ¯ **Company hiring:** 52+ open positions in Denver area (no shortage of roles)
+ **Location:** Lakewood, Colorado (Denver metro, ~15 min west of downtown)  **YOUR TARGET CITY **  
+ **Entry-level roles available:** Multiple Engineer I positions open  
+ **Company hiring:** 52+ open positions in Denver area (no shortage of roles)
 
 ---
 
 ## Role Overview
 
-**Position:** Engineer I â€” Manufacturing / Process Engineering (title varies)  
-**Company:** Terumo BCT â€” medical device manufacturer (blood/cell collection, processing, manufacturing)  
+**Position:** Engineer I  Manufacturing / Process Engineering (title varies)  
+**Company:** Terumo BCT  medical device manufacturer (blood/cell collection, processing, manufacturing)  
 **Location:** Lakewood, Colorado (headquarters and primary manufacturing facility)  
 **Employment:** Full-time  
 **Openings:** 52+ across engineering, quality, operations
@@ -58,7 +58,7 @@ Terumo BCT manufactures and processes medical devices for blood/cell collection,
 
 ### Requirements
 - **Bachelor's degree** in Chemical Engineering, Mechanical Engineering, or related field
-- 0â€“2 years of experience (recent graduates welcome)
+- 02 years of experience (recent graduates welcome)
 - Strong problem-solving and analytical skills
 - Manufacturing or process industry experience is a plus
 - Familiarity with GxP (GMP, SOP) concepts is valuable but not required for entry-level
@@ -67,7 +67,7 @@ Terumo BCT manufactures and processes medical devices for blood/cell collection,
 
 ## Compensation & Benefits
 
-**Salary:** Estimated $65,000â€“$95,000 (typical for entry-level manufacturing engineer in Denver)  
+**Salary:** Estimated $65,000$95,000 (typical for entry-level manufacturing engineer in Denver)  
 **Note:** Exact salary depends on specialization and individual performance; verify in job posting
 
 **Benefits:**
@@ -82,20 +82,20 @@ Terumo BCT manufactures and processes medical devices for blood/cell collection,
 
 ## Why This Is a Good Fit
 
-âœ… **YOUR TARGET CITY:** Lakewood, Colorado (Denver metro) â€” exactly where you want to be  
-âœ… **Manufacturing-focused:** Direct application of ChemE unit operations and process control  
-âœ… **Entry-level roles available:** 52+ openings means better odds of landing an interview  
-âœ… **Medical device sector:** Regulated industry (FDA); adds compliance/regulatory knowledge to resume  
-âœ… **Growth opportunity:** Terumo BCT is global company; career progression to senior/specialist roles  
-âœ… **Local prestige:** Terumo BCT is a major employer in Denver; well-respected in Colorado  
+ **YOUR TARGET CITY:** Lakewood, Colorado (Denver metro)  exactly where you want to be  
+ **Manufacturing-focused:** Direct application of ChemE unit operations and process control  
+ **Entry-level roles available:** 52+ openings means better odds of landing an interview  
+ **Medical device sector:** Regulated industry (FDA); adds compliance/regulatory knowledge to resume  
+ **Growth opportunity:** Terumo BCT is global company; career progression to senior/specialist roles  
+ **Local prestige:** Terumo BCT is a major employer in Denver; well-respected in Colorado  
 
 ---
 
 ## Potential Concerns
 
-âš ï¸ **Exact role unclear from public search:** "52 open roles" on job boards, but specific "Engineer I" titles vary (Manufacturing, Process, Quality, etc.). Need to browse careers portal to find your best fit.  
-âš ï¸ **Medical device manufacturing:** Highly regulated (FDA/ISO); slower pace than tech, but very systematic.  
-âš ï¸ **Shift work possible:** Some manufacturing facilities require 24/7 coverage; verify in job posting.  
+ **Exact role unclear from public search:** "52 open roles" on job boards, but specific "Engineer I" titles vary (Manufacturing, Process, Quality, etc.). Need to browse careers portal to find your best fit.  
+ **Medical device manufacturing:** Highly regulated (FDA/ISO); slower pace than tech, but very systematic.  
+ **Shift work possible:** Some manufacturing facilities require 24/7 coverage; verify in job posting.  
 
 ---
 
@@ -111,7 +111,7 @@ Terumo BCT manufactures and processes medical devices for blood/cell collection,
 2. **Alternative search:**
    - ZipRecruiter: https://www.ziprecruiter.com/co/Terumo-Bct/Jobs/-in-Denver,CO
    - Indeed: https://www.indeed.com/q-terumo-bct-engineer-l-denver,-co-jobs.html
-   - LinkedIn: Search "Terumo BCT" â†’ Jobs â†’ Denver/Lakewood
+   - LinkedIn: Search "Terumo BCT"  Jobs  Denver/Lakewood
 
 3. **Built In Colorado (Colorado-focused job board):**
    - https://www.builtincolorado.com/company/terumo-bct/jobs
@@ -123,17 +123,17 @@ Terumo BCT manufactures and processes medical devices for blood/cell collection,
 | Milestone | Est. Date |
 |-----------|-----------|
 | **Application deadline** | Rolling; no hard close (52 roles = ongoing hiring) |
-| **Phone screen** | 1â€“2 weeks |
-| **Technical interview** | Week 2â€“3 |
-| **On-site (Lakewood)** | Week 3â€“4 |
-| **Offer** | Week 4â€“5 |
-| **Start date** | Flexible; negotiate for Augustâ€“September 2026 |
+| **Phone screen** | 12 weeks |
+| **Technical interview** | Week 23 |
+| **On-site (Lakewood)** | Week 34 |
+| **Offer** | Week 45 |
+| **Start date** | Flexible; negotiate for AugustSeptember 2026 |
 
 ---
 
 ## Research Checklist Before Applying
 
-- [ ] **Browse Terumo BCT careers portal:** Find 2â€“3 Engineer I roles that appeal (manufacturing, quality, process)
+- [ ] **Browse Terumo BCT careers portal:** Find 23 Engineer I roles that appeal (manufacturing, quality, process)
 - [ ] **Glassdoor reviews:** Search "Terumo BCT" + "Engineer" (look for entry-level culture feedback)
 - [ ] **Understand the company:** Terumo BCT manufactures devices for blood/cell collection, apheresis, manufacturing
 - [ ] **Location confirmation:** Can you commit to Lakewood, CO (or willing to relocate from parents' home)?
@@ -158,7 +158,7 @@ Terumo BCT manufactures and processes medical devices for blood/cell collection,
 
 1. **Visit Terumo BCT careers:** https://careers.terumobct.com
 2. **Browse Engineer I roles** in Lakewood/Denver
-3. **Pick 2â€“3 roles** that appeal most
+3. **Pick 23 roles** that appeal most
 4. **Read Glassdoor reviews** (search "Terumo BCT" + "Engineer")
 5. **Tailor cover letter** for each application
 6. **Apply via Terumo BCT careers** (or use ZipRecruiter if direct link is faster)

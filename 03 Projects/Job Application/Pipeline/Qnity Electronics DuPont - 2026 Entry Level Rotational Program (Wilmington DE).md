@@ -4,31 +4,31 @@ role: 2026 Entry Level Rotational Program - Chemical, Mechanical & Electrical En
 location: Wilmington, Delaware
 tier: Tier 1 (Large corp rotational, skills rotation exposure)
 fit: ChemE preferred; ME/EE also accepted
-salary_range: "$57,120â€“$89,760"
-status: "âš ï¸ VERIFIED 2026-07-26 (via DuPont + Qnity aggregators)"
+salary_range: "$57,120$89,760"
+status: " VERIFIED 2026-07-26 (via DuPont + Qnity aggregators)"
 ---
 
 **Application Status:**
 - [ ] Applied
 - [ ] Scrapped
 
-# Qnity Electronics (DuPont) â€” 2026 Entry Level Rotational Program
+# Qnity Electronics (DuPont)  2026 Entry Level Rotational Program
 
-**Cross-reference:** See [[CLAUDE.md]] â†’ "Job Posting Verification Protocol".
+**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol".
 
 ---
 
 ## Verification Status
 
-âš ï¸ **VERIFIED via aggregators** â€” 2026-07-26  
-ðŸ”Ž **Verification path:** 
+ **VERIFIED via aggregators**  2026-07-26  
+ **Verification path:** 
    - DuPont careers (https://careers.dupont.com/us/en/job/246491W)
    - Qnity Electronics careers (https://careers.qnityelectronics.com/us/en/job/DEJDEGUS248862WEXTERNALENUS)
    - Indeed, ZipRecruiter, LinkedIn (cross-references)  
-ðŸ“Œ **Req ID:** 246491W (DuPont) / DEJDEGUS248862WEXTERNALENUS (Qnity)  
-ðŸŽ¯ **Entry-level confirmed:** Yes â€” explicitly "2026 Entry Level Rotational Program"  
-ðŸŽ¯ **ChemE fit:** Preferred major listed; ME and EE also welcome  
-ðŸ“… **Start date:** May 1â€“31, 2026
+ **Req ID:** 246491W (DuPont) / DEJDEGUS248862WEXTERNALENUS (Qnity)  
+ **Entry-level confirmed:** Yes  explicitly "2026 Entry Level Rotational Program"  
+ **ChemE fit:** Preferred major listed; ME and EE also welcome  
+ **Start date:** May 131, 2026
 
 ---
 
@@ -37,9 +37,9 @@ status: "âš ï¸ VERIFIED 2026-07-26 (via DuPont + Qnity aggregators)"
 **Program:** 2026 Entry Level Rotational Program: Chemical, Mechanical & Electrical Engineering  
 **Host company:** Qnity Electronics (DuPont's high-tech electronics business)  
 **Location:** Wilmington, Delaware (DuPont headquarters area; also Newark, DE nearby)  
-**Duration:** Rotational (typically 18â€“24 months; 3â€“4 rotations of 6 months each)  
+**Duration:** Rotational (typically 1824 months; 34 rotations of 6 months each)  
 **Start date:** May 2026  
-**Openings:** Multiple (rotational programs typically hire 10â€“30 new grads across engineering disciplines)
+**Openings:** Multiple (rotational programs typically hire 1030 new grads across engineering disciplines)
 
 ---
 
@@ -66,8 +66,8 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 
 ## Compensation & Benefits
 
-**Salary:** $57,120â€“$89,760 (PAID DURING ROTATIONS â€” this is competitive for entry-level rotational programs)  
-**Signing bonus:** Typically $3â€“5k  
+**Salary:** $57,120$89,760 (PAID DURING ROTATIONS  this is competitive for entry-level rotational programs)  
+**Signing bonus:** Typically $35k  
 **Relocation:** Covered by DuPont (housing assistance, moving costs)
 
 **Benefits:**
@@ -88,23 +88,23 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 
 ## Why This Is a Good Fit
 
-âœ… **Structured program:** Rotational programs are *designed* to train new grads; you'll have mentors, clear expectations, and frequent feedback  
-âœ… **ChemE preferred:** Listed as target major; your degree is the preferred fit  
-âœ… **Diverse experience:** 3â€“4 rotations expose you to different functions; you can pivot based on interests  
-âœ… **Large corp backing:** DuPont is Tier-1 chemical/materials company; doing a rotation here is a credential  
-âœ… **Northeast location:** Wilmington, DE is ~90 min from NYC, ~2 hrs from Philadelphia, ~3 hrs from DC â€” gateway to major metro areas  
-âœ… **Clear trajectory:** Strong performers often get permanent offers post-rotation  
-âœ… **Salary competitive:** $57â€“90k is solid for entry-level; rotational programs often lead to $80â€“95k+ permanent roles
+ **Structured program:** Rotational programs are *designed* to train new grads; you'll have mentors, clear expectations, and frequent feedback  
+ **ChemE preferred:** Listed as target major; your degree is the preferred fit  
+ **Diverse experience:** 34 rotations expose you to different functions; you can pivot based on interests  
+ **Large corp backing:** DuPont is Tier-1 chemical/materials company; doing a rotation here is a credential  
+ **Northeast location:** Wilmington, DE is ~90 min from NYC, ~2 hrs from Philadelphia, ~3 hrs from DC  gateway to major metro areas  
+ **Clear trajectory:** Strong performers often get permanent offers post-rotation  
+ **Salary competitive:** $5790k is solid for entry-level; rotational programs often lead to $8095k+ permanent roles
 
 ---
 
 ## Potential Concerns
 
-âš ï¸ **Salary range is broad:** Lower end ($57k) might require negotiation; upper end more likely with strong performance/offer details  
-âš ï¸ **Rotational commitment:** You'll rotate every 6 months; may require 2â€“3 relocations within Wilmington area (manageable) or beyond (less common for this program)  
-âš ï¸ **Location:** Wilmington is not one of your stated targets (Denver, Seattle, NYC, Chicago), though it's near NYC/Philadelphia  
-âš ï¸ **Uncertain permanent placement:** While strong performers usually get offers, there's no guarantee; plan accordingly if you have specific location preferences  
-âš ï¸ **Time zone** for international preferences: Wilmington is US East Coast (not your stated international targets like Japan, Germany, France)
+ **Salary range is broad:** Lower end ($57k) might require negotiation; upper end more likely with strong performance/offer details  
+ **Rotational commitment:** You'll rotate every 6 months; may require 23 relocations within Wilmington area (manageable) or beyond (less common for this program)  
+ **Location:** Wilmington is not one of your stated targets (Denver, Seattle, NYC, Chicago), though it's near NYC/Philadelphia  
+ **Uncertain permanent placement:** While strong performers usually get offers, there's no guarantee; plan accordingly if you have specific location preferences  
+ **Time zone** for international preferences: Wilmington is US East Coast (not your stated international targets like Japan, Germany, France)
 
 ---
 
@@ -113,7 +113,7 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 **Primary platforms:**
 1. **DuPont careers:** https://careers.dupont.com/us/en/job/246491W
 2. **Qnity Electronics careers:** https://careers.qnityelectronics.com/us/en/job/DEJDEGUS248862WEXTERNALENUS
-3. **LinkedIn:** Search "DuPont" â†’ Jobs â†’ "Entry Level Rotational"
+3. **LinkedIn:** Search "DuPont"  Jobs  "Entry Level Rotational"
 4. **Indeed:** Search "DuPont" + "Qnity" + "Entry Level Rotational"
 
 **Recommendation:** Apply via DuPont careers (most authoritative) or LinkedIn (allows easy recruiter contact).
@@ -125,10 +125,10 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 | Milestone | Est. Date |
 |-----------|-----------|
 | **Application deadline** | ~August 31, 2026 (rolling but cohort-based; apply early) |
-| **Online assessment** | 1â€“2 weeks after application |
-| **Behavioral/technical interview** | Week 3â€“4 |
-| **Final round (panel/exec)** | Week 5â€“6 |
-| **Offer** | Week 6â€“7 |
+| **Online assessment** | 12 weeks after application |
+| **Behavioral/technical interview** | Week 34 |
+| **Final round (panel/exec)** | Week 56 |
+| **Offer** | Week 67 |
 | **Start date** | May 2026 (or negotiate to June/July if needed) |
 
 *Note: Rotational programs often have rolling deadlines but prioritize early applicants.*
@@ -137,7 +137,7 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 
 ## Rotational Program Nuances (Good to Know Before Interviewing)
 
-1. **Permanent placement:** DuPont rotational programs *typically* result in permanent offers if you perform well (85â€“95% of rotators get offers post-program).
+1. **Permanent placement:** DuPont rotational programs *typically* result in permanent offers if you perform well (8595% of rotators get offers post-program).
 2. **Location flexibility:** Discuss your preferences upfront (e.g., "I want to end in Wilmington/Philadelphia area"). They'll try to honor this.
 3. **Mentor assignment:** You'll get a dedicated mentor; this person is your advocate and learning guide.
 4. **Feedback cadence:** Expect structured feedback at rotation 3, 6, 12, 18, 24 months.
@@ -149,7 +149,7 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 
 - [ ] Review DuPont + Qnity Electronics on Glassdoor (rotational program reviews are often excellent)
 - [ ] Understand Qnity's products: Advanced electronics materials for semiconductors, displays, coatings (not ChemE-obvious, but fascinating materials science)
-- [ ] Confirm you're willing to relocate to Wilmington for 6â€“24 months (or negotiate for nearby location)
+- [ ] Confirm you're willing to relocate to Wilmington for 624 months (or negotiate for nearby location)
 - [ ] Prepare for rotational-style interviews: "Tell me about a time you worked in a team," "How do you adapt to new environments"
 - [ ] Check DuPont's benefits (excellent reviews; healthcare, tuition reimbursement are top-tier)
 
@@ -157,7 +157,7 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 
 ## Cover Letter Angle
 
-**Positioning:** "I'm excited about rotation programs because I want to see how ChemE is applied across manufacturing, quality, and operations â€” not just stay in one silo. DuPont's Qnity Electronics division is at the forefront of advanced materials for semiconductors and displays. I'm drawn to the intersection of chemistry and manufacturing precision. The structured mentorship and multi-rotation exposure will accelerate my growth into a technical leader."
+**Positioning:** "I'm excited about rotation programs because I want to see how ChemE is applied across manufacturing, quality, and operations  not just stay in one silo. DuPont's Qnity Electronics division is at the forefront of advanced materials for semiconductors and displays. I'm drawn to the intersection of chemistry and manufacturing precision. The structured mentorship and multi-rotation exposure will accelerate my growth into a technical leader."
 
 **Key points to hit:**
 - Interest in manufacturing/operations (not just R&D)
@@ -171,8 +171,8 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 ## Salary Negotiation Notes
 
 **Entry-level rotational offer:**
-- Base salary likely $60â€“75k (depending on GPA, interview performance)
-- Signing bonus $2â€“5k common
+- Base salary likely $6075k (depending on GPA, interview performance)
+- Signing bonus $25k common
 - You have some leverage; don't accept the low end without pushback
 - Talking points: GPA, relevant projects, internships, leadership roles
 - Negotiation script: "I'm excited about the opportunity. Based on [GPA/projects], I'd like to discuss the starting salary. Would $70k [or specific number] be possible?"
@@ -182,8 +182,8 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 ## Next Steps
 
 1. **Visit DuPont careers page:** Confirm posting is still live (as of 2026-07-26, it is).
-2. **Read 5â€“10 Glassdoor reviews:** Focus on "rotational program experience" â€” these are usually glowing if the company invests in new grads.
-3. **Understand Qnity's products:** Watch 1â€“2 YouTube videos on "DuPont Electronics Materials" or "Qnity Electronics"; you'll mention this in interviews.
+2. **Read 510 Glassdoor reviews:** Focus on "rotational program experience"  these are usually glowing if the company invests in new grads.
+3. **Understand Qnity's products:** Watch 12 YouTube videos on "DuPont Electronics Materials" or "Qnity Electronics"; you'll mention this in interviews.
 4. **Tailor cover letter** using positioning above.
 5. **Prepare for behavioral questions:**
    - Tell me about a time you had to learn something new quickly (adapt to new rotation)
@@ -203,6 +203,6 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 
 - DuPont careers: https://careers.dupont.com/us/en/job/246491W
 - Qnity Electronics careers: https://careers.qnityelectronics.com/us/en/job/DEJDEGUS248862WEXTERNALENUS
-- Glassdoor reviews: Search "DuPont" â†’ Rotational Program reviews (excellent baseline)
+- Glassdoor reviews: Search "DuPont"  Rotational Program reviews (excellent baseline)
 - LinkedIn: Search "DuPont 2026 rotational" for recent rotator profiles/testimonials
 
