@@ -1,4 +1,4 @@
-﻿---
+---
 company: AbbVie Inc.
 role: Associate Engineer (entry-level)
 location: North Chicago, Illinois (Chicago metro)

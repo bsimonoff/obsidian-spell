@@ -1,4 +1,4 @@
-﻿---
+---
 company: Cleveland-Cliffs Inc.
 role: Associate Chemical Engineer
 location: Burns Harbor, Indiana
@@ -10,7 +10,7 @@ status: "âš ï¸ VERIFIED 2026-07-26 (via Indeed aggregator)"
 
 **Application Status:**
 - [ ] Applied
-- [ ] Scrapped
+- [x] Scrapped
 
 # Cleveland-Cliffs Inc. â€” Associate Chemical Engineer
 

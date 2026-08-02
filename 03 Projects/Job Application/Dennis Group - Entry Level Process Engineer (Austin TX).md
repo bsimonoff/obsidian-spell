@@ -1,4 +1,4 @@
-﻿---
+---
 company: Dennis Group
 role: Entry Level Process Engineer
 location: Austin, Texas (+ San Diego, Salt Lake City, Springfield MA)
