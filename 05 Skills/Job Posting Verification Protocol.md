@@ -268,3 +268,26 @@ For each file:
 - Master research doc stays in Opportunities/ for later reference
 
 ---
+
+## Quick Reference: Weekly Workflow
+
+**Monday morning (8 AM):** Agent runs, adds jobs to `Pipeline/Pending Review/`
+
+**Monday–Friday:** You review and sort:
+- [ ] Open `Pending Review/` folder
+- [ ] For each job: decide Strong Fit → In Process | Weak Fit → Scrapped | Already Applied → Applied
+- [ ] Move file to appropriate folder
+- [ ] Update checkboxes if needed
+- [ ] Clear `Pending Review/` by EOW
+
+**If agent misses a good opportunity:**
+- Manually add it to `Pipeline/In Process/` (agent only searches specific boards; you might find something elsewhere)
+- Follow the Individual Opportunity File Format below
+- Verify it's not already in Pipeline first (duplicate check)
+
+**If you find a duplicate in Pending Review:**
+- Delete it from `Pending Review/`
+- Update the original in its current folder if details changed
+- Commit: `chore: remove duplicate [Company] [Role]`
+
+---
