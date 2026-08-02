@@ -14,7 +14,7 @@
 
 | # | Role | Location | 🔎 Verified | Cover Letter | Status |
 |---|------|----------|-------------|--------------|--------|
-| 1 | [[Just-Evotec Biologics - Process Engineer I (Seattle)]] | Seattle, WA | ✅ LIVE, entry, $78–81k | ⚠️ TBD | ⬜ **verified best fit** |
+| 1 | [[03 Projects/Job Application/Pipeline/In Process/Manual Research/Just-Evotec Biologics - Process Engineer I (Seattle)]] | Seattle, WA | ✅ LIVE, entry, $78–81k | ⚠️ TBD | ⬜ **verified best fit** |
 | 2 | [[Plug Power - Hydrogen Systems Engineer]] — *real req: Engineer I, Fuel Cell System Test & Validation* | Slingerlands, NY | ✅ LIVE (R6885) | ✅ Drafted (re-angle to test/validation) | ⬜ |
 | 3 | [[Terumo BCT - Engineer I Manufacturing & Process (Lakewood, CO)]] | Lakewood, CO (Denver) | ✅ LIVE, entry (verify $) | ⚠️ TBD | ⬜ local |
 | — | [[Pfizer - Process Automation Engineer (Andover, MA - 2nd Shift)]] | Andover, MA | ✅ was live | ✅ Sent | ✅ APPLIED |
