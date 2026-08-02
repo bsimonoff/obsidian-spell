@@ -8,13 +8,15 @@ salary_range: "$80,168$83,000"
 status: " VERIFIED 2026-07-26 (multiple aggregators)"
 ---
 
-**Application Status:**
+## Application Status
+
 - [ ] Applied
 - [ ] Scrapped
 
+**Title Applied As:** ___________________________
+
 # Just-Evotec Biologics  Process Engineer I
 
-**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol" (already in your pipeline; re-verified today).
 
 ---
 
@@ -191,3 +193,6 @@ Just-Evotec Biologics manufactures novel biotherapeutics (monoclonal antibodies,
 - Built In Seattle: https://www.builtinseattle.com/company/just-evotec-biologics
 - Evotec careers (if accessible): https://careers.evotec.com
 
+---
+
+**Cross-reference:** See [[CLAUDE.md]] → "Job Posting Verification Protocol"

@@ -138,3 +138,7 @@ If you have questions before applying, try reaching out to Electric Boat recruit
 
 **Last verified:** 2026-07-26  
 **Next verification due:** 2026-08-02 (2+ weeks is safe; 1+ month confirm again)
+
+---
+
+**Cross-reference:** See [[CLAUDE.md]] → "Job Posting Verification Protocol"

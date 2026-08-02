@@ -8,13 +8,15 @@ salary_range: "$73,800$102,100"
 status: " VERIFIED 2026-07-26"
 ---
 
-**Application Status:**
+## Application Status
+
 - [ ] Applied
 - [ ] Scrapped
 
+**Title Applied As:** ___________________________
+
 # Dennis Group  Entry Level Process Engineer
 
-**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol".
 
 ---
 
@@ -172,3 +174,6 @@ Dennis Group is an engineering firm specializing in design, construction, and co
 - Indeed posting: https://www.indeed.com/viewjob?jk=228795a319047ab3
 - ZipRecruiter (cross-check): https://www.ziprecruiter.com/c/Dennis-Group/Job/Entry-Level-Process-Engineer-(Start-Summer-2026)/-in-Austin,TX
 
+---
+
+**Cross-reference:** See [[CLAUDE.md]] → "Job Posting Verification Protocol"

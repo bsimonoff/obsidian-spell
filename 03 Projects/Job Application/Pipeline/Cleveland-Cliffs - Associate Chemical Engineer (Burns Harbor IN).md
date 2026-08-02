@@ -14,7 +14,6 @@ status: " VERIFIED 2026-07-26 (via Indeed aggregator)"
 
 # Cleveland-Cliffs Inc.  Associate Chemical Engineer
 
-**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol".
 
 ---
 
@@ -185,3 +184,6 @@ If you get an offer:
 - Indeed search (Burns Harbor): https://www.indeed.com/q-Cleveland-Cliffs-l-Burns-Harbor,-IN-jobs.html
 - Glassdoor reviews: Search "Cleveland-Cliffs Inc" (good for culture/entry-level insight)
 
+---
+
+**Cross-reference:** See [[CLAUDE.md]] → "Job Posting Verification Protocol"

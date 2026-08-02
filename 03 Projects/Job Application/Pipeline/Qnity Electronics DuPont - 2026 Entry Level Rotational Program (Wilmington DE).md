@@ -8,13 +8,15 @@ salary_range: "$57,120$89,760"
 status: " VERIFIED 2026-07-26 (via DuPont + Qnity aggregators)"
 ---
 
-**Application Status:**
+## Application Status
+
 - [ ] Applied
 - [ ] Scrapped
 
+**Title Applied As:** ___________________________
+
 # Qnity Electronics (DuPont)  2026 Entry Level Rotational Program
 
-**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol".
 
 ---
 
@@ -206,3 +208,6 @@ DuPont's entry-level rotational program is designed to accelerate new engineers.
 - Glassdoor reviews: Search "DuPont"  Rotational Program reviews (excellent baseline)
 - LinkedIn: Search "DuPont 2026 rotational" for recent rotator profiles/testimonials
 
+---
+
+**Cross-reference:** See [[CLAUDE.md]] → "Job Posting Verification Protocol"

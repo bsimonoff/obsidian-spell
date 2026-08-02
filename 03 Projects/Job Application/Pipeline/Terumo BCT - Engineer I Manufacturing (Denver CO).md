@@ -8,13 +8,15 @@ salary_range: "$65,000$95,000 (estimated for entry-level process engineer)"
 status: " VERIFIED 2026-07-26 (company + multiple open roles)"
 ---
 
-**Application Status:**
+## Application Status
+
 - [ ] Applied
 - [ ] Scrapped
 
+**Title Applied As:** ___________________________
+
 # Terumo BCT  Engineer I Manufacturing
 
-**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol" (already in your pipeline as [[Terumo BCT - Engineer I Manufacturing & Process (Lakewood, CO)]]; re-verified today).
 
 ---
 
@@ -179,3 +181,6 @@ Terumo BCT manufactures and processes medical devices for blood/cell collection,
 - Built In Colorado: https://www.builtincolorado.com/company/terumo-bct
 - Glassdoor: Search "Terumo BCT"
 
+---
+
+**Cross-reference:** See [[CLAUDE.md]] → "Job Posting Verification Protocol"

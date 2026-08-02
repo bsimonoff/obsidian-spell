@@ -14,7 +14,6 @@ status: " VERIFIED 2026-07-26 (multiple roles, live on BioSpace + Regeneron care
 
 # Regeneron Pharmaceuticals  Process Development Engineer I
 
-**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol" (already in your pipeline; re-verified today with MULTIPLE specific openings).
 
 ---
 
@@ -254,3 +253,6 @@ Regeneron is a top-tier biopharmaceutical company developing monoclonal antibodi
 - Glassdoor reviews: Search "Regeneron" (excellent company reviews)
 - LinkedIn: https://www.linkedin.com/company/regeneron-pharmaceuticals/jobs/
 
+---
+
+**Cross-reference:** See [[CLAUDE.md]] → "Job Posting Verification Protocol"

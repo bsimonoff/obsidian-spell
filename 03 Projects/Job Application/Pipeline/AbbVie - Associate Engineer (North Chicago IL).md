@@ -8,13 +8,15 @@ salary_range: "$70,000$95,000 (estimated for entry-level)"
 status: " VERIFIED 2026-07-26 (live on AbbVie careers)"
 ---
 
-**Application Status:**
+## Application Status
+
 - [ ] Applied
 - [ ] Scrapped
 
+**Title Applied As:** ___________________________
+
 # AbbVie Inc.  Associate Engineer
 
-**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol" (mentioned in your pipeline as AbbVie - Operations Rotational; re-verified today with specific ENTRY-LEVEL role).
 
 ---
 
@@ -204,3 +206,6 @@ AbbVie manufactures and develops pharmaceuticals across immunology, oncology, vi
 - Glassdoor: Search "AbbVie" (strong company ratings)
 - Company info: AbbVie Inc. (NYSE: ABBV)  pharmaceutical, immunology, oncology focus
 
+---
+
+**Cross-reference:** See [[CLAUDE.md]] → "Job Posting Verification Protocol"

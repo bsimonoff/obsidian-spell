@@ -8,13 +8,15 @@ salary_range: "$67,000$95,000 (typical for entry-level process engineer roles)"
 status: " VERIFIED 2026-07-26 (multiple openings via aggregators)"
 ---
 
-**Application Status:**
+## Application Status
+
 - [ ] Applied
 - [ ] Scrapped
 
+**Title Applied As:** ___________________________
+
 # Eastman Chemical Company  Entry Level Chemical Engineer
 
-**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol".
 
 ---
 
@@ -256,3 +258,6 @@ Eastman is a global specialty chemical company producing advanced materials for 
 - ZipRecruiter salary data: $67k$130k (entry-level = $6785k)
 - Company info: Eastman Chemical (NYSE: EMN); public, established 1920; specialty chemicals focus
 
+---
+
+**Cross-reference:** See [[CLAUDE.md]] → "Job Posting Verification Protocol"
