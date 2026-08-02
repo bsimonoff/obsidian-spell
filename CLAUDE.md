@@ -133,6 +133,35 @@ Spell/
 
 **Seasonality note:** New-grad *cohort/rotational programs* are seasonal (peak Sept–Nov for next-summer starts); *req-based "Engineer I" roles* hire year-round. For an already-graduated candidate wanting to start ASAP, prioritize req-based roles and treat cohort programs as bonus.
 
+### Permanent Job Discovery Agent (Autonomous)
+**Status:** ✅ DEPLOYED & ACTIVE (Anthropic RemoteTrigger)
+
+**CRITICAL: Reference this to find the agent in future sessions:**
+- **Trigger ID:** `trig_019g22ZfDdDSAdo6gQhhi4KM`
+- **Query:** `RemoteTrigger action="get" trigger_id="trig_019g22ZfDdDSAdo6gQhhi4KM"`
+
+**Agent specifications:**
+- **Schedule:** Every Monday at 8:00 AM MST (cron: `0 8 * * 1`) — **NEVER EXPIRES**
+- **Instructions:** Reads [[05 Skills/Job Posting Verification Protocol.md]] on every run (autonomous, no chat memory)
+- **Repository:** https://github.com/bsimonoff/obsidian-spell.git
+- **Token:** `GITHUB_TOKEN_SPELL` (stored in `.env.local`)
+- **Model:** claude-sonnet-5
+- **Tools:** Read, Write, Edit, Glob, Grep, WebFetch, Bash
+
+**What it does (every Monday 8 AM):**
+1. Clones repo from GitHub
+2. Reads protocol for configuration
+3. Searches 10+ roles per search (LinkedIn, Indeed, Glassdoor, ZipRecruiter, SpaceTalent, EV.Careers, BioSpace, Built In)
+4. Cross-references on 2+ aggregators (strict verification)
+5. Checks for duplicates in Pipeline
+6. Creates .md files in `Pipeline/In Process/Auto Research/`
+7. Commits and pushes to git
+8. Reports results
+
+**Auto-sync setup:** ON (pulls discovered jobs to local Obsidian)
+
+**Never edit the agent directly.** To change behavior, edit [[05 Skills/Job Posting Verification Protocol.md]] — agent reads it on next run.
+
 ### Protocol Creation & Cross-Referencing (Meta-Rule)
 **HENCEFORTH: All new protocols, guides, and skill documents created in `05 Skills/` MUST include a cross-reference back to this CLAUDE.md file.**
 
