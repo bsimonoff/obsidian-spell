@@ -21,6 +21,42 @@ Translation: Every Monday at 8:00 AM Mountain Standard Time
 
 ---
 
+### Permanent Cloud Agent Deployment
+
+**Agent deployed via Anthropic RemoteTrigger (Permanent):**
+
+| Field | Value |
+|-------|-------|
+| **Trigger ID** | `trig_019g22ZfDdDSAdo6gQhhi4KM` |
+| **Name** | Spell Job Discovery Agent - Permanent |
+| **Schedule** | Monday 8:00 AM MST (cron: `0 8 * * 1`) |
+| **Status** | ✅ ENABLED (never expires) |
+| **Model** | claude-sonnet-5 |
+| **Tools** | Read, Write, Edit, Glob, Grep, WebFetch, Bash |
+| **Repository** | https://github.com/bsimonoff/obsidian-spell.git |
+| **Deployment Date** | 2026-08-02 |
+
+**How to reference this agent in future sessions:**
+- Trigger ID: `trig_019g22ZfDdDSAdo6gQhhi4KM`
+- Check status: RemoteTrigger action "get" with trigger_id
+- Update: RemoteTrigger action "update" with trigger_id
+- Next run: Every Monday 8 AM MST
+
+**What the agent does (autonomously):**
+1. Clones repo from GitHub (uses GITHUB_TOKEN_SPELL env var)
+2. Reads this protocol file for configuration
+3. Searches job boards: LinkedIn, Indeed, Glassdoor, ZipRecruiter, SpaceTalent, EV.Careers, BioSpace, Built In
+4. Verifies 10+ roles per search by cross-referencing on 2+ aggregators
+5. Checks for duplicates in existing Pipeline
+6. Creates .md files for verified, non-duplicate jobs in Auto Research/
+7. Commits to git with summary message
+8. Pushes to main branch
+9. Reports results
+
+**Agent does NOT rely on chat history or previous sessions** — it reads this protocol for all instructions.
+
+---
+
 ### GitHub Access
 
 The agent needs a **permanent GitHub personal access token** to:
