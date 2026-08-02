@@ -82,22 +82,6 @@ This role description uses words like "fast-paced," "hardworking," "efficient," 
 
 ---
 
-## Key Differences from Engineer I Letter
-
-**This letter (Associate role):**
-- Emphasizes hands-on lab work, not just data/analysis
-- Highlights equipment proficiency and troubleshooting
-- Shows enthusiasm for supporting multiple teams
-- Focuses on being a reliable, detail-oriented lab contributor
-- Less emphasis on automation/complex systems
-
-**If you were applying to Engineer I instead:**
-- Would emphasize process design, experimentation, scale-up thinking
-- Would highlight analytical/problem-solving depth
-- Would show interest in advanced technical projects
-
----
-
 ## Regeneron Submission Tips
 
 1. **Find the posting:** If you found this JD on Regeneron's careers portal, apply directly through their system (most authentic)
