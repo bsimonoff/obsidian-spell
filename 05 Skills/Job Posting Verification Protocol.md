@@ -1,293 +1,361 @@
-# Job Posting Verification & Pipeline Management Protocol
+# Agent Job Discovery Protocol
 
-**Cross-reference**: See [[CLAUDE.md]] → "Job Posting Verification (NON-NEGOTIABLE)" for when to use.
-Also see [[03 Projects/Job Application/Pipeline - Ranked by ChemE Fit.md]] for how verified status is tracked.
+**⚠️ THIS DOCUMENT IS FOR AN AUTONOMOUS AGENT TO READ AND ACT UPON**
 
-**Automation**: Monday 8 AM MST, an agent discovers jobs, checks for duplicates, and stages them in `Pipeline/Pending Review/` for your review and sorting.
-
----
-
-## Why this exists
-
-On July 19, 2026 a research pass surfaced several "strong Tier 1" roles that turned out to have **no entry-level opening actually posted** (Solid Power = Process Engineer II/Senior only; AGC Biologics = Senior only) and one whose posting **didn't list ChemE as an eligible major** (Blue Origin R58494 = mechanical/aerospace only). The lesson: *knowing a company hires for a role type is not evidence that a matching req is open right now.* This protocol prevents that error.
-
-Additionally, **duplicate jobs waste time and clutter the pipeline.** This protocol includes a staging workflow to prevent duplicates before they reach your decision queue.
-
-**Prime rule:** Never present a job as a real opportunity until you've confirmed a live requisition that matches the candidate's **level** and **major**. A drafted cover letter proves nothing about whether the posting exists.
+**Cross-reference**: See [[CLAUDE.md]] → "Job Posting Verification (NON-NEGOTIABLE)" for context.
 
 ---
 
-## The verification workflow
+## AGENT CONFIGURATION & SCHEDULE
 
-### Step 1 — Try the direct posting URL (WebFetch)
-- Fetch the specific req URL and ask whether it's an active posting, plus title/location/req ID/date.
-- **404 / "no longer accepting applications" / expired** → the req is dead or the link rotted. Do NOT list it as live. Search for a current sibling req instead.
+**This section defines what the agent does and when.**
 
-### Step 2 — Blank fetch? Cross-reference (EXPECTED, ACCEPTABLE)
-Most modern ATS (Workday, Greenhouse, iCIMS, etc.) are JavaScript-rendered and return an **empty page** to a fetcher. This is normal — not a failure. Cross-reference against aggregators that index individual reqs:
-- **LinkedIn Jobs** — best for req existence + posting date
-- **Glassdoor** — open-position counts + titles
-- **Indeed / ZipRecruiter** — broad coverage, "now hiring" dates
-- **Niche boards** — SpaceTalent (aerospace), EV.Careers (battery/EV), BioSpace (pharma/biotech), Built In (Colorado/Seattle/Chicago tech)
-- A match on **2+ sources** with a recent date + matching title/req ID = confident "live."
+### Execution Schedule
 
-### Step 3 — Confirm the LEVEL (most common failure)
-Verify the open req is **entry-appropriate**: Engineer I, Associate, Early Career, New Grad, or Level I/II for a strong candidate.
-- ❌ Only "Engineer II / III / IV / Senior / Principal" open → **no entry fit right now → Watchlist.**
-- Internships-only also = Watchlist (note the intern-to-FT pathway as a fallback).
-- **⚠️ CRITICAL: Read the full job description, not just the title.** A role may be titled "Engineer I" but require "3–5 years experience" in the must-haves section. This is a reach, not entry-level. Aggregator summaries often miss these caveats. Always fetch or cross-reference the full JD.
-
-### Step 4 — Confirm the MAJOR fits
-If the posting names required/eligible majors:
-- ChemE listed → genuine fit.
-- ChemE absent (e.g., "ME/IE/AeroE only") → mark as **reach**, not a fit; drop priority. Manufacturing-engineer titles are frequently mechanical-coded.
-
-### Step 5 — Record it
-In the job file, add a dated banner at the top and capture specifics:
-- `✅ VERIFIED [date] — req [ID] live` + exact title + **direct apply URL**
-- `⚠️ VERIFIED [date] — live but [caveat: level/major/salary floor]`
-- `❌ VERIFIED [date] — no entry-level req open (only [what's open]) → Watchlist`
-
----
-
-## Pipeline status tags
-Every role in [[03 Projects/Job Application/Pipeline - Ranked by ChemE Fit.md]] gets a 🔎 tag:
-
-| Tag | Meaning | Action |
-|-----|---------|--------|
-| ✅ | Live req confirmed, level + major fit | Apply now |
-| ⚠️ | Live but caveat (level/major/salary/location) | Apply with eyes open |
-| ❓ | Not yet verified | **Verify before applying** |
-| ❌ | No entry req open now | Move to Watchlist; recheck later |
-
-**Never leave a ❓ in the top tier presented as confirmed.** State the uncertainty plainly.
-
----
-
-## Seasonality (context for "nothing's open")
-- **Cohort / rotational / campus programs** — seasonal. Peak **Sept–Nov** (next-summer starts), second wave Feb–Mar. Quietest **Jul–Aug**.
-- **Req-based "Engineer I" roles** — hire **year-round**, whenever a team has budget.
-- For an already-graduated candidate wanting to start ASAP: **prioritize req-based roles**; treat cohort programs as bonus lottery tickets (many start too late anyway).
-
----
-
-## Quick checklist (run every time)
-- [ ] Direct URL fetched (or 404 noted)
-- [ ] If blank, confirmed on 2+ aggregators (LinkedIn/Glassdoor/Indeed/niche board)
-- [ ] Level confirmed entry-appropriate (not II/III/Sr)
-- [ ] Major confirmed (ChemE listed, or flagged as reach)
-- [ ] Real req ID + exact title + direct apply URL captured
-- [ ] Dated verification banner added to job file
-- [ ] Pipeline 🔎 tag set
-
----
-
-## Batch Research & Consolidation (for 3+ opportunities)
-
-**When researching multiple jobs (3+)**, use [[03 Projects/Job Application/Company Research Template.md]] as a standardized format. Then consolidate all findings into a **single master research document** using the template structure:
-
-**Master Research Doc template:**
-- **Title:** [X] Verified [Position Type] Opportunities — Research Summary
-- **Metadata:** Research date, total count, target cities covered, verification status
-- **Format:** Separate sections for each opportunity, using Company Research Template fields:
-  - Company info table (name, industry, location, size, stage)
-  - Position details table (title, salary, benefits, remote/on-site)
-  - Role alignment checklist
-  - Key responsibilities (bulleted)
-  - Required + preferred qualifications
-  - "How you stack up" comparison
-  - Application materials checklist
-  - Timeline + strategy
-
-**Example:** [[03 Projects/Job Application/9 Verified Entry-Level ChemE Opportunities (Research Summary).md]]
-
-**Benefits:**
-- Single reference point (vs. hunting through 9 separate files)
-- Easy comparison (salary, salary, fit across opportunities)
-- Consolidates verification dates + aggregator sources
-- Supports strategic prioritization ("apply these 4 first")
-- Reduces redundant research
-
-**When to create a master research doc:**
-- After 3+ opportunities verified in a batch search
-- When you're deciding which roles to prioritize
-- As a handoff to collaborators / for team discussion
-
-**Keep individual job files?** Yes — master doc is a summary/planning tool. Individual files stay detailed and updated with application status.
-
----
-
-## Pipeline Organization & Sorting (Post-Research Workflow)
-
-**Once opportunities are researched and individual files created, organize them immediately into Pipeline folders:**
-
-### Folder Structure (Updated with Staging)
 ```
-03 Projects/Job Application/Pipeline/
-├── Pending Review/   ← 🤖 Agent-discovered jobs (NOT YET REVIEWED)
-├── Applied/          ← Roles you've already applied to
-├── In Process/       ← Roles still under consideration
-└── Scrapped/         ← Roles you've decided against
+Cron: 0 8 * * 1 (MST)
+Translation: Every Monday at 8:00 AM Mountain Standard Time
 ```
 
-**Rule:** No homeless files in Pipeline root. Every opportunity file goes into one of the four subfolders above.
-
-**Key workflow:**
-1. **Agent (Monday 8 AM)** discovers jobs → adds to `Pending Review/` (after duplicate check)
-2. **You review** `Pending Review/` files → decide to apply or scrap
-3. **You move** files to `Applied/`, `In Process/`, or `Scrapped/` based on your decision
-4. `Pending Review/` should be empty by end of week (all jobs reviewed and sorted)
-
-### Automation Workflow: Agent Job Discovery (Monday 8 AM MST)
-
-**What happens automatically:**
-
-**Every Monday at 8:00 AM MST**, an Anthropic agent:
-1. **Searches job boards** for entry-level ChemE roles in your target cities (Denver, Seattle, NYC, Chicago) + international opportunities
-2. **Verifies each posting** using the workflow below (live req, entry level, ChemE fit)
-3. **Checks for duplicates** against existing jobs in Pipeline (Applied, In Process, Scrapped)
-4. **Stages new jobs** in `Pipeline/Pending Review/` with verification metadata
-5. **Commits to git** (auto-synced locally via git-obsi-sync)
-
-**You receive a summary** of what was added to `Pending Review/` — review and sort by end of week.
+**Important:** If the scheduled time changes, update the cron expression above. The agent reads this to know when to run.
 
 ---
 
-### Duplicate Detection Workflow (Agent + You)
+### GitHub Access
 
-**Agent's duplicate check (automatic):**
+The agent needs a **permanent GitHub personal access token** to:
+- Read the repo (pull current job files for duplicate detection)
+- Write job files to `03 Projects/Job Application/Pipeline/In Process/Auto Research/`
+- Commit and push to the `main` branch
 
-Before adding any job to `Pending Review/`, the agent cross-references:
-- **Company + Role title** — exact match is duplicate (skip)
-- **Company + Req ID** — exact match is duplicate (skip)
-- **Company + Location** — if a nearly identical role is already in Applied/In Process/Scrapped, flag as potential duplicate
-- **Apply URL** — if the URL already exists in Pipeline, skip
+**Token Setup (for human deployer):**
+1. Go to GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
+2. Create a token named: `SpellJobAgent-<date>`
+3. **Permissions needed:**
+   - `repo:status` (read repo status)
+   - `repo:read` (read private repo)
+   - `repo:write` (push commits)
+4. **Expiration:** Set to 1 year (review annually)
+5. **Secret storage:** Provide token to agent via environment variable: `GITHUB_TOKEN_SPELL`
 
-**Format for duplicates:** If a job is discovered that duplicates an existing one, the agent notes it in git commit message:
+**Token in use:**
 ```
-agent: skip duplicate — [Company] [Role] (req [ID]) already in Pipeline/In Process
+GitHub repo: https://github.com/bsimonoff/obsidian-spell.git
+Token env var: GITHUB_TOKEN_SPELL
+Working branch: main
 ```
-
-**Your manual catch (for edge cases):**
-
-If you spot a duplicate in `Pending Review/` that the agent missed:
-1. **Delete the duplicate file** from `Pending Review/`
-2. **Check the original** — update it if job details changed (salary, location, deadline)
-3. **Commit to git** with message:
-   ```
-   chore: remove duplicate [Company] [Role] — consolidated with existing entry
-   ```
 
 ---
 
-### Individual Opportunity File Format
+### Target Specification
 
-Each role gets its own `.md` file with this structure:
+**Industries to prioritize (in order):**
+1. Aerospace (Boeing, Lockheed Martin, Airbus, SpaceX, Ball Aerospace, etc.)
+2. Renewable Energy (NREL, Ørsted, EDP, Siemens Energy, etc.)
+3. Semiconductors (Intel, TSMC, Samsung, Micron, GlobalFoundries, etc.)
+4. Pharmaceuticals & Biotech (Regeneron, Vertex, Amgen, Genentech, Moderna, etc.)
 
-**Header (YAML frontmatter):**
-```yaml
+**Industries to avoid:**
+- Oil & Gas
+- Petrochemicals
+- Fossil fuel power plants
+
+**Target US Cities:**
+- Denver, Colorado
+- Seattle, Washington
+- New York, New York (NYC metro)
+- Chicago, Illinois
+
+**International (if visa sponsored):**
+- Germany
+- Netherlands
+- France
+- Switzerland
+- Austria
+- Belgium
+- Japan
+- South Korea
+- Hong Kong
+- China
+
+**Salary floor:** $70,000 USD annually (or equivalent in local currency)
+
+**Education requirement:** BS in Chemical Engineering (or related; ChemE is preferred)
+
+**Experience requirement:** Entry-level only (0–2 years, Engineer I, Associate, New Grad, Graduate Program, Rotational Program)
+
+---
+
+## AGENT WORKFLOW
+
+### Step 1: Search for Jobs
+
+**Sources to search (in order of priority):**
+1. **LinkedIn Jobs** (most comprehensive; allows filtering by level/major)
+2. **Indeed** (broad US coverage)
+3. **Glassdoor** (includes salary estimates + reviews)
+4. **ZipRecruiter** (aggregates from multiple sources)
+5. **Niche boards:**
+   - SpaceTalent (aerospace/defense)
+   - EV.Careers (battery/EV)
+   - BioSpace (pharma/biotech)
+   - Built In (Colorado/Seattle/Chicago startups)
+
+**Search criteria:**
+- Keywords: "Chemical Engineer", "Process Engineer", "Manufacturing Engineer", "Development Engineer" (entry-level titles)
+- Filters: Entry-level, BS ChemE or related, located in target cities/countries
+- Salary: $70k+ (if displayed)
+- Post date: Within last 30 days (active postings)
+- Remote: Accept hybrid/on-site only (no full-remote unless exceptional fit)
+
+---
+
+### Step 2: Verify Each Posting
+
+**Verification workflow (in order):**
+
+**2a. Fetch the direct posting URL**
+- Use WebFetch to retrieve the job posting page
+- Look for: job title, company, location, salary, requirements, posting date
+- If fetch returns **404 or "job closed"** → **SKIP** (posting is dead)
+- If fetch returns **blank page** (JS-rendered ATS) → proceed to Step 2b
+
+**2b. Cross-reference on aggregators**
+- If direct URL returned blank, search for the job on **2+ aggregators** (LinkedIn, Indeed, Glassdoor)
+- Confirm:
+  - Job title + req ID match
+  - Posting date is recent (< 30 days ago)
+  - Location matches target city
+  - ChemE is listed as an eligible major
+- **Live confirmation rule:** Match on 2+ aggregators = confident "live posting"
+
+**2c. Confirm entry-level**
+- Read the full job description
+- Check: Is the role titled "Engineer I", "Associate", "New Grad", "Graduate Program", "Rotational", or similar?
+- Check: Do required qualifications say "0 years experience" or "BS + entry-level"?
+- ❌ SKIP if: "Engineer II+", "3–5 years required", "Senior", or "Principal" (these are not entry-level)
+- ⚠️ FLAG if: Title is "Engineer I" but description says "prefer 2–3 years experience" (mark as reach, but still add)
+
+**2d. Confirm ChemE fit**
+- Read the required/preferred majors list
+- ✅ INCLUDE if: ChemE, Chemical Engineering, Chemistry, or Materials Science listed
+- ⚠️ FLAG as "REACH" if: Only "ME/EE/IE listed, but role sounds chemistry/process relevant
+- ❌ SKIP if: "Mechanical/Aerospace only" and no chemistry mention
+
+**2e. Check salary**
+- If posted: Record it
+- If not posted: Note as "not disclosed"
+- ❌ SKIP if: posted salary < $70k AND no mention of signing bonus/equity
+
+---
+
+### Step 3: Duplicate Detection
+
+**Before adding a job, check if it's already in the Pipeline:**
+
+1. **Read all existing job files** in:
+   - `03 Projects/Job Application/Pipeline/Applied/`
+   - `03 Projects/Job Application/Pipeline/In Process/`
+   - `03 Projects/Job Application/Pipeline/In Process/Auto Research/`
+   - `03 Projects/Job Application/Pipeline/Scrapped/`
+
+2. **Compare using these fields:**
+   - **Company + Job Title** (exact match = duplicate, SKIP)
+   - **Company + Req ID** (if both are known, match = duplicate, SKIP)
+   - **Apply URL** (if it's identical to an existing file's URL, SKIP)
+
+3. **If no duplicate found:** Proceed to Step 4
+
+4. **If duplicate found:**
+   - Log: `[DUPLICATE SKIP] [Company] [Role] (req [ID]) already in Pipeline/[Applied|In Process|Scrapped]`
+   - Do NOT create a new file
+   - Do NOT commit
+   - Move to next job
+
+---
+
+### Step 4: Format & Create the Job File
+
+**File location:** `03 Projects/Job Application/Pipeline/In Process/Auto Research/[Company] - [Job Title].md`
+
+**File content (template):**
+
+```markdown
 ---
 company: [Company Name]
-role: [Exact Job Title]
-location: [City, State]
-salary_range: $[min]-$[max]
+role: [Exact Job Title from Posting]
+location: [City, State/Country]
+salary_range: $[min]-$[max] OR "Not disclosed"
+req_id: [Requisition ID if available]
+apply_url: [Direct link to apply or job posting]
+discovered_date: [YYYY-MM-DD]
+source: [LinkedIn|Indeed|Glassdoor|ZipRecruiter|SpaceTalent|EV.Careers|BioSpace|BuiltIn]
 status: VERIFIED
+verification_date: [YYYY-MM-DD]
+agent_notes: "[Entry-level confirmed | REACH: reason | FLAG: caveat]"
 ---
-```
 
-**Body (Application tracking section first):**
-```markdown
 ## Application Status
 
 - [ ] Applied
 - [ ] Scrapped
 
-**Title Applied As:** ___________________________
+**Title Applied As:** (leave blank — user fills in after applying)
 
 ---
 
 # [Company] — [Job Title]
 
-[Rest of opportunity details...]
+## Verification Summary
+
+**Status:** ✅ VERIFIED [date]  
+**Verification path:** [Which sources confirmed this | Direct URL fetch successful]  
+**Entry-level:** ✅ Confirmed (Engineer I | Associate | New Grad | [exact title from posting])  
+**ChemE fit:** ✅ Confirmed (ChemE listed as required/preferred major)  
+**Salary:** $[min]-$[max] ✅ Meets $70k floor
+
+---
+
+## Position Details
+
+**Company:** [Company Name]  
+**Title:** [Exact job title]  
+**Location:** [City, State/Country]  
+**Position type:** Full-time | Internship | Rotational Program  
+**Remote/Hybrid:** On-site | Hybrid | Remote (if applicable)  
+**Salary:** $[min]-$[max] or "Not disclosed"  
+**Req ID:** [If available]  
+**Posting date:** [Date from source]  
+**Apply URL:** [Direct link]
+
+---
+
+## About the Role
+
+[Copy 2–3 key bullet points from the job description about main responsibilities]
+
+---
+
+## Requirements
+
+**Required:**
+- [Key requirement 1]
+- [Key requirement 2]
+- [Key requirement 3]
+
+**Preferred:**
+- [Preferred qualification 1]
+- [Preferred qualification 2]
+
+---
+
+## Fit Assessment
+
+**Why this is a good fit:**
+- Entry-level role (Engineer I / new grad focus)
+- Chemical Engineering major explicitly listed
+- Aligned industry (aerospace / renewables / semiconductor / pharma)
+- Located in target city / visa sponsorship available
+
+**Caveats (if any):**
+- [If REACH: "Title is Engineer I but prefers X years experience"]
+- [If location: "Hybrid, but X% on-site"]
+- [If salary: "Below $70k but strong fit otherwise"]
+
 ```
 
-### Weekly Sorting Procedure (You, Monday–Friday)
-
-**Every week, sort jobs from `Pending Review/` into your decision pipeline.**
-
-**Step 1: Review agent's additions (Monday–Tuesday)**
-- Open Obsidian and navigate to `Pipeline/Pending Review/`
-- **Skim each file:**
-  - Read company name, role title, location, salary, verification status
-  - Note if it's a fit (location, industry, level match your targets?)
-  - Note if it's a reach (different major, salary too low, location mismatch)
-
-**Step 2: Make a decision for each job (Tuesday–Thursday)**
-
-For each file in `Pending Review/`, decide one of:
-
-| Decision | Action | Destination |
-|----------|--------|-------------|
-| **Strong fit** | I'll probably apply | Move to `Pipeline/In Process/` |
-| **Weak fit** | Not right for me | Move to `Pipeline/Scrapped/` |
-| **Already applied** | I've submitted an app | Mark `[x] Applied` + move to `Pipeline/Applied/` |
-
-**Step 3: Move files & update checkboxes**
-
-For each file:
-1. Open it in Obsidian
-2. Update the **Application Status** section:
-   - If applying: leave both checkboxes unchecked (stays in In Process)
-   - If scrapping: check `[x] Scrapped`
-   - If already applied: check `[x] Applied` + fill in "Title Applied As" field
-3. **Move the file** to the correct folder:
-   ```
-   Pipeline/Pending Review/[filename].md 
-   → Pipeline/[Applied|In Process|Scrapped]/[filename].md
-   ```
-
-**Step 4: Clean up (Friday)**
-- Verify `Pipeline/Pending Review/` is empty (all jobs sorted)
-- If any files linger → decide by EOW or they stay until next review cycle
-
-**Goal:** `Pending Review/` should be **empty by Friday end-of-day**, with all jobs sorted into their appropriate status folder.
-
-### Batch Research Consolidation (Best Practice)
-
-**After splicing opportunities from research summaries into individual files:**
-1. Move original research summary files to `Opportunities/` (for archival reference)
-2. Create individual opportunity files in Pipeline (per format above)
-3. Place ALL individual files in `In Process/` initially
-4. User sorts by marking checkboxes
-5. Auto-organize into Applied/Scrapped/In Process folders
-
-**Benefits:**
-- No homeless files cluttering Pipeline root
-- Clear default state for undecided opportunities
-- Simple sorting workflow (check a box, run sort)
-- Master research doc stays in Opportunities/ for later reference
+**Instructions for filling the template:**
+- Use the actual content from the job posting (copy-paste key details)
+- Keep descriptions concise (2–3 bullets, not the entire JD)
+- Mark entry-level and ChemE fit status clearly
+- Include caveats honestly (prefer 2+ yrs? Remote-only? Below salary floor?)
 
 ---
 
-## Quick Reference: Weekly Workflow
+### Step 5: Commit to Git
 
-**Monday morning (8 AM):** Agent runs, adds jobs to `Pipeline/Pending Review/`
+**After creating/updating all job files, commit with a message:**
 
-**Monday–Friday:** You review and sort:
-- [ ] Open `Pending Review/` folder
-- [ ] For each job: decide Strong Fit → In Process | Weak Fit → Scrapped | Already Applied → Applied
-- [ ] Move file to appropriate folder
-- [ ] Update checkboxes if needed
-- [ ] Clear `Pending Review/` by EOW
+```
+git commit -m "agent: discover [N] new entry-level ChemE jobs
 
-**If agent misses a good opportunity:**
-- Manually add it to `Pipeline/In Process/` (agent only searches specific boards; you might find something elsewhere)
-- Follow the Individual Opportunity File Format below
-- Verify it's not already in Pipeline first (duplicate check)
+[Company 1] - [Role] (req [ID]) - ✅ live
+[Company 2] - [Role] (req [ID]) - ✅ live
+[Company 3] - [Role] - ⚠️ live but reach (prefer X years)
 
-**If you find a duplicate in Pending Review:**
-- Delete it from `Pending Review/`
-- Update the original in its current folder if details changed
-- Commit: `chore: remove duplicate [Company] [Role]`
+Verified via [LinkedIn|Indeed|Glassdoor|aggregator cross-ref]
+No duplicates found in existing Pipeline.
+
+Co-Authored-By: Agent <agent@anthropic.com>
+"
+```
+
+**Commit rules:**
+- Only commit if **at least 1 new job** was added
+- If **all jobs were duplicates** (0 new jobs), do NOT commit
+- Include a summary of how many jobs were discovered/skipped
+- Push to `main` branch immediately after commit
 
 ---
+
+## USER WORKFLOW (For Obsidian)
+
+**You don't need to run the agent.** It runs automatically every Monday at 8 AM MST. Here's what you do:**
+
+### Weekly Review (Monday–Friday)
+
+1. **Check `Pipeline/In Process/Auto Research/`** for new jobs
+2. **Read each job file** (verify company, role, salary, location look good)
+3. **Decide for each job:**
+   - **Strong fit?** → Leave it in `Auto Research/` (keep for later)
+   - **Weak fit/don't want?** → Move to `Pipeline/Scrapped/`
+   - **Ready to apply?** → Move to `Pipeline/In Process/` (non-Auto Research)
+4. **After applying:** Move job file to `Pipeline/Applied/` and check `[x] Applied`
+
+### File Management
+
+**Auto Research folder:**
+- Jobs the agent added
+- Review and sort by moving to Scrapped or Applied
+- Organize as needed within Auto Research (by industry, location, date, etc.)
+
+**Applied folder:**
+- Jobs you've applied to
+- Check `[x] Applied` and fill in "Title Applied As"
+- Keep for reference
+
+**Scrapped folder:**
+- Jobs you decided against
+- Check `[x] Scrapped`
+- Archive/reference later
+
+---
+
+## Troubleshooting (For Deployer)
+
+**Agent not running at the scheduled time?**
+- Verify GitHub token (`GITHUB_TOKEN_SPELL`) is valid and not expired
+- Check agent logs for errors
+- Verify cron schedule is correct: `0 8 * * 1 (MST)`
+
+**Agent finding duplicates constantly?**
+- Duplicate detection is working correctly
+- If legitimate duplicates exist (e.g., multiple req IDs for same role), the agent will skip them
+- User should clean up old/stale jobs in Pipeline
+
+**Agent not finding enough jobs?**
+- Job market may be slow
+- Search may need broader keywords
+- Consider expanding target cities or industries
+
+---
+
+## Version History
+
+| Date | Change | Author |
+|------|--------|--------|
+| 2026-08-02 | Initial agent protocol | Claude |
+
+---
+
+**This document is the source of truth for the agent's behavior. Update it to change what the agent does.**
