@@ -1,4 +1,4 @@
-﻿---
+---
 company: Regeneron
 role: Process Development Associate
 location: Tarrytown, NY
