@@ -1,4 +1,4 @@
-﻿---
+---
 company: Just-Evotec Biologics
 role: Process Engineer I
 location: Seattle, Washington
@@ -11,9 +11,9 @@ status: " VERIFIED 2026-07-26 (multiple aggregators)"
 ## Application Status
 
 - [ ] Applied
-- [ ] Scrapped
+- [x] Scrapped
 
-**Title Applied As:** ___________________________
+**Title Applied As:** no relevant postings
 
 # Just-Evotec Biologics  Process Engineer I
 
