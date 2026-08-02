@@ -121,15 +121,22 @@ Every role in [[03 Projects/Job Application/Pipeline - Ranked by ChemE Fit.md]] 
 
 **Once opportunities are researched and individual files created, organize them immediately into Pipeline folders:**
 
-### Folder Structure
+### Folder Structure (Updated with Staging)
 ```
 03 Projects/Job Application/Pipeline/
+├── Pending Review/   ← 🤖 Agent-discovered jobs (NOT YET REVIEWED)
 ├── Applied/          ← Roles you've already applied to
 ├── In Process/       ← Roles still under consideration
 └── Scrapped/         ← Roles you've decided against
 ```
 
-**Rule:** No homeless files in Pipeline root. Every opportunity file goes into Applied, In Process, or Scrapped.
+**Rule:** No homeless files in Pipeline root. Every opportunity file goes into one of the four subfolders above.
+
+**Key workflow:**
+1. **Agent (Monday 8 AM)** discovers jobs → adds to `Pending Review/` (after duplicate check)
+2. **You review** `Pending Review/` files → decide to apply or scrap
+3. **You move** files to `Applied/`, `In Process/`, or `Scrapped/` based on your decision
+4. `Pending Review/` should be empty by end of week (all jobs reviewed and sorted)
 
 ### Individual Opportunity File Format
 
