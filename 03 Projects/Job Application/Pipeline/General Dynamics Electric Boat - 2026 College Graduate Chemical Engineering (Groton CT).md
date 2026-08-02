@@ -9,13 +9,16 @@ salary_range: "$72,000$96,000 (estimated per Glassdoor)"
 status: " VERIFIED 2026-07-26"
 ---
 
-**Application Status:**
+## Application Status
+
 - [ ] Applied
 - [ ] Scrapped
 
-# General Dynamics Electric Boat  2026 College Graduate - Chemical Engineering
+**Title Applied As:** ___________________________
 
-**Cross-reference:** See [[CLAUDE.md]]  "Job Posting Verification Protocol".
+---
+
+# General Dynamics Electric Boat — 2026 College Graduate - Chemical Engineering
 
 ---
 
