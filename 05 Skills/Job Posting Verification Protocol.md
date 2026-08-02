@@ -28,21 +28,25 @@ The agent needs a **permanent GitHub personal access token** to:
 - Write job files to `03 Projects/Job Application/Pipeline/In Process/Auto Research/`
 - Commit and push to the `main` branch
 
-**Token Setup (for human deployer):**
-1. Go to GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
-2. Create a token named: `SpellJobAgent-<date>`
-3. **Permissions needed:**
-   - `repo:status` (read repo status)
-   - `repo:read` (read private repo)
-   - `repo:write` (push commits)
-4. **Expiration:** Set to 1 year (review annually)
-5. **Secret storage:** Provide token to agent via environment variable: `GITHUB_TOKEN_SPELL`
+**Token Setup (ALREADY CONFIGURED):**
 
-**Token in use:**
+The GitHub token is stored securely in `.env.local` (git-ignored).
+
+**Agent runtime:**
+- Read environment variable: `$GITHUB_TOKEN_SPELL`
+- Use for all GitHub operations (clone, pull, commit, push)
+- Token has permissions: `repo`, `read:user`, `user:email`
+
+**Token reference:**
+- See [[03 Projects/Job Application/GitHub Agent Credentials.md]] for token management
+- Do NOT commit `.env.local` to git (it's in .gitignore)
+- If token expires or is compromised, rotate per that document
+
 ```
 GitHub repo: https://github.com/bsimonoff/obsidian-spell.git
-Token env var: GITHUB_TOKEN_SPELL
+Token env var: GITHUB_TOKEN_SPELL (read from .env.local at runtime)
 Working branch: main
+Token name: SpellJobAgent-Test-2026-08 (never expires)
 ```
 
 ---

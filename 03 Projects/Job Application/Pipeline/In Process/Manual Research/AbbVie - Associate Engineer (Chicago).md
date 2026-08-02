@@ -1,4 +1,4 @@
-﻿---
+---
 company: AbbVie
 role: Associate Engineer
 location: Chicago, IL
