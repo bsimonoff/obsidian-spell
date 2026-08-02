@@ -1,4 +1,4 @@
-﻿---
+---
 company: Qnity Electronics (DuPont subsidiary) / DuPont
 role: 2026 Entry Level Rotational Program - Chemical, Mechanical & Electrical Engineering
 location: Wilmington, Delaware
@@ -11,7 +11,7 @@ status: " VERIFIED 2026-07-26 (via DuPont + Qnity aggregators)"
 ## Application Status
 
 - [ ] Applied
-- [ ] Scrapped
+- [x] Scrapped
 
 **Title Applied As:** ___________________________
 

@@ -1,4 +1,4 @@
-﻿---
+---
 company: Regeneron Pharmaceuticals
 role: Process Development Engineer I (multiple specializations)
 location: Tarrytown, New York (NYC metro)
