@@ -1,4 +1,4 @@
-﻿---
+---
 company: Terumo BCT
 role: Engineer I Manufacturing
 location: Denver, CO
