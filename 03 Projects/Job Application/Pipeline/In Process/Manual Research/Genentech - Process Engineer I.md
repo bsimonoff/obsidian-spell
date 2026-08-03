@@ -1,4 +1,4 @@
-﻿---
+---
 company: Genentech
 role: Process Engineer I
 location: Bay Area, CA
