@@ -1,4 +1,4 @@
-﻿---
+---
 company: Chevron
 role: Engineering Dev Program
 location: Bay Area / Gulf Coast
