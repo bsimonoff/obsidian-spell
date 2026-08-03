@@ -218,6 +218,8 @@ Token name: SpellJobAgent-Test-2026-08 (never expires)
 
 **File location:** `03 Projects/Job Application/Pipeline/In Process/Auto Research/[Company] - [Job Title].md`
 
+⚠️ **CRITICAL:** Files MUST be created in `Auto Research/` subfolder, NOT `Manual Research/`. Manual Research is user-curated only.
+
 **File content (template):**
 
 ```markdown
