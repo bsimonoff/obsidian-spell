@@ -1,4 +1,4 @@
-﻿---
+---
 company: Vertex
 role: Entry-Level Engineering
 location: Boston, MA
