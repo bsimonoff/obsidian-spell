@@ -46,12 +46,15 @@ Translation: Every Monday at 8:00 AM Mountain Standard Time
 1. Clones repo from GitHub (uses GITHUB_TOKEN_SPELL env var)
 2. Reads this protocol file for configuration
 3. Searches job boards: LinkedIn, Indeed, Glassdoor, ZipRecruiter, SpaceTalent, EV.Careers, BioSpace, Built In
-4. Verifies 10+ roles per search by cross-referencing on 2+ aggregators
+4. **Discovers and verifies 10–20 roles per run** by cross-referencing on 2+ aggregators
 5. Checks for duplicates in existing Pipeline
-6. Creates .md files for verified, non-duplicate jobs in Auto Research/
-7. Commits to git with summary message
-8. Pushes to main branch
-9. Reports results
+6. Creates .md files for verified, non-duplicate jobs in **`Auto Research/` ONLY** (not Manual Research)
+7. Each file follows the CRB template structure (see Step 4 below)
+8. Commits to git with summary message listing all jobs discovered
+9. Pushes to main branch
+10. Reports results
+
+**Success metric:** Each run produces 10–20 new job files (or reports duplicates/no matches if market is slow)
 
 **Agent does NOT rely on chat history or previous sessions** — it reads this protocol for all instructions.
 
