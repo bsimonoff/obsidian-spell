@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Bioconjugation and purification process de
 
 - [x] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Upstream process execution role | Strong l
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

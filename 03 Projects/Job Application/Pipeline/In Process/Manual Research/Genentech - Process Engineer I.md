@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Search process-development-jobs section on
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

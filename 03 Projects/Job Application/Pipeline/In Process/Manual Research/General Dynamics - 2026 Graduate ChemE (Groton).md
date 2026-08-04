@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Recent grad only (graduating 2026) | 25 po
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

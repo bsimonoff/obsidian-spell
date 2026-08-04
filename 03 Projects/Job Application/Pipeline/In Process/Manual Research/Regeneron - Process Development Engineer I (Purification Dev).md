@@ -16,6 +16,7 @@ agent_notes: "Entry-level (I-level) confirmed | ChemE/BiochemE required | 0-3 ye
 
 - [x] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

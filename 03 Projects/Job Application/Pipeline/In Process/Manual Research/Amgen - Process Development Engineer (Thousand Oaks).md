@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Posting EXPIRED (Sept 2025 req) | URL retu
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

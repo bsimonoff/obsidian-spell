@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Recent grad focus | Steel manufacturing | 
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

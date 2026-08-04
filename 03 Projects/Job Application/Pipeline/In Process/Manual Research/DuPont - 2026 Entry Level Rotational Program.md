@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Two-year rotational program | Requires 6+ 
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

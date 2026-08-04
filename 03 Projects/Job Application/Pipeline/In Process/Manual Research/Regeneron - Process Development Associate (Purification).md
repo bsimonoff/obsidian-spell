@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Original posting expired but repostings on
 
 - [x] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 Title Applied As: Regeneron - Process Development Associate (Purification)
 

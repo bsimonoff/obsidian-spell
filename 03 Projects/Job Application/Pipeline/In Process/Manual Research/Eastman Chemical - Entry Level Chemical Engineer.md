@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Multiple locations available | 100+ intern
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

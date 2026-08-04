@@ -18,6 +18,7 @@ agent_notes: "Entry-level confirmed | 52+ open roles in Denver area (July 2026) 
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

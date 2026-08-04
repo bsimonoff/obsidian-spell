@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Food & beverage processing design | 30-50%
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 

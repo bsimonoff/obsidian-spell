@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | No visa sponsorship for entry-level roles 
 
 - [ ] Applied
 - [ ] Scrapped
+- [ ] No Opening
 
 **Title Applied As:** ___________________________
 
