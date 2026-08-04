@@ -1,4 +1,4 @@
-﻿---
+---
 company: Cleveland-Cliffs
 role: Associate ChemE
 location: Burns Harbor, IN
@@ -16,7 +16,7 @@ agent_notes: "Entry-level confirmed | Recent grad focus | Steel manufacturing | 
 
 - [ ] Applied
 - [ ] Scrapped
-- [ ] No Opening
+- [x] No Opening
 
 **Title Applied As:** ___________________________
 
