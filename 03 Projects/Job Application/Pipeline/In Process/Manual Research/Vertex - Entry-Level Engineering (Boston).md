@@ -4,6 +4,12 @@ role: Entry-Level Engineering
 location: Boston, MA
 salary_range: $70,000-85,000
 status: VERIFIED
+apply_url: https://www.vrtx.com/careers/
+req_id: TBD
+discovered_date: "2026-08-03"
+source: Vertex Pharmaceuticals careers portal
+verification_date: "2026-08-03"
+agent_notes: "Entry-level confirmed | No visa sponsorship for entry-level roles | Strong location match | Confirm specific role on careers site"
 ---
 
 ## Application Status
@@ -22,7 +28,7 @@ status: VERIFIED
 | **Company** | Vertex |
 | **Role** | Entry-Level Engineering |
 | **Location** | Boston, MA |
-| **Salary** | \(System.Collections.Hashtable.salary) |
+| **Salary** | $70,000-$85,000 |
 
 **Quick Assessment:**
 - [x] Entry-level: Yes

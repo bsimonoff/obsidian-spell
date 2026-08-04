@@ -28,7 +28,7 @@ agent_notes: "Entry-level confirmed | Search careers.terumobct.com for Engineer 
 | **Company** | Terumo BCT |
 | **Role** | Engineer I Manufacturing |
 | **Location** | Denver, CO |
-| **Salary** | \(System.Collections.Hashtable.salary) |
+| **Salary** | $65,000-$95,000 |
 
 **Quick Assessment:**
 - [x] Entry-level: Yes
