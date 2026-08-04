@@ -1,4 +1,4 @@
-﻿---
+---
 company: General Dynamics
 role: 2026 College Graduate
 location: Groton, CT
@@ -16,7 +16,7 @@ agent_notes: "Entry-level confirmed | Recent grad only (graduating 2026) | 25 po
 
 - [ ] Applied
 - [ ] Scrapped
-- [ ] No Opening
+- [x] No Opening
 
 **Title Applied As:** ___________________________
 
