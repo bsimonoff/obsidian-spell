@@ -1,4 +1,4 @@
-﻿---
+---
 company: DuPont
 role: Rotational Program
 location: Multiple (Wilmington, DE primary)
@@ -16,7 +16,7 @@ agent_notes: "Entry-level confirmed | Two-year rotational program | Requires 6+ 
 
 - [ ] Applied
 - [ ] Scrapped
-- [ ] No Opening
+- [x] No Opening
 
 **Title Applied As:** ___________________________
 
