@@ -14,7 +14,7 @@ agent_notes: "REACH: Requires 1 year experience (not entry-level). ChemE explici
 
 ## Application Status
 
-- [ ] Applied
+- [x] Applied
 - [ ] Scrapped
 - [ ] No Opening
 
