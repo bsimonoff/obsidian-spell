@@ -1,4 +1,4 @@
-﻿---
+---
 company: Eastman
 role: Entry Level ChemE
 location: Multiple (Kingsport, TN + 50+ sites globally)
@@ -16,7 +16,7 @@ agent_notes: "Entry-level confirmed | Multiple locations available | 100+ intern
 
 - [ ] Applied
 - [ ] Scrapped
-- [ ] No Opening
+- [x] No Opening
 
 **Title Applied As:** ___________________________
 
