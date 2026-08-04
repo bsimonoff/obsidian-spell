@@ -1,9 +1,15 @@
 ---
 company: Dennis Group
 role: Entry Level PE
-location: Austin, TX
-salary_range: $73,800-102,100
+location: Multiple (Austin, Springfield, Carlsbad, San Diego, Salt Lake City)
+salary_range: $36,000-60,000
 status: VERIFIED
+apply_url: https://www.monster.com/job-openings/entry-level-process-engineer-start-summer-2026-austin-tx--6745fcbe-e1bc-493d-854e-fdb1fb5c2abe
+req_id: TBD
+discovered_date: "2026-08-03"
+source: Monster.com / Indeed / Glassdoor / Dennis Group
+verification_date: "2026-08-03"
+agent_notes: "Entry-level confirmed | Food & beverage processing design | 30-50% travel required | Multiple locations available"
 ---
 
 ## Application Status
@@ -22,7 +28,7 @@ status: VERIFIED
 | **Company** | Dennis Group |
 | **Role** | Entry Level PE |
 | **Location** | Austin, TX |
-| **Salary** | \(System.Collections.Hashtable.salary) |
+| **Salary** | $36,000-$60,000 |
 
 **Quick Assessment:**
 - [x] Entry-level: Yes
