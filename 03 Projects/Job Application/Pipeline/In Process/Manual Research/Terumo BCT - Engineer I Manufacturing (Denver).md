@@ -16,7 +16,7 @@ agent_notes: "Entry-level confirmed | Search careers.terumobct.com for Engineer 
 
 - [ ] Applied
 - [ ] Scrapped
-- [ ] No Opening
+- [x] No Opening
 
 **Title Applied As:** ___________________________
 
