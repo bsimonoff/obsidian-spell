@@ -1,0 +1,23 @@
+Benjamin Simonoff
+(720) 555-0147 | origamishipman@gmail.com
+
+---
+
+Dear Hiring Manager,
+
+I'm excited to apply for the Entry-Level Process Engineer position at CRB. As a recent Chemical Engineering graduate, I'm drawn to CRB's mission of designing sustainable facilities that improve people's lives—particularly in the life sciences and food and beverage sectors where chemical engineering principles drive innovation.
+
+This role appeals to me because it combines the technical core of process engineering—heat transfer, material balances, equipment design—with hands-on collaboration on real projects. During my capstone project, I led the design of a water treatment system for a local food processing facility, executing heat transfer calculations and P&ID documentation under faculty mentorship. That experience taught me how rigorous engineering calculations translate into tangible, constructive solutions—exactly what I'd contribute to your multidisciplinary teams at CRB.
+
+I bring a strong foundation in engineering fundamentals, proficiency in Microsoft Office and AutoCAD, and a proven ability to communicate complex technical concepts to diverse audiences. I'm eager to apply this foundation to matters of increasing complexity under the guidance of experienced mentors, and to grow into the technical leader that CRB's clients expect.
+
+I'm genuinely excited about the prospect of building world-class facilities with your team. I'd welcome the opportunity to discuss how my ChemE background and collaborative mindset can add value to CRB's projects.
+
+Thank you for considering my application.
+
+Sincerely,  
+Benjamin Simonoff
+
+---
+
+**Word count:** ~230 words (body) | **Status:** Draft | **File reference for Obsidian:** `obsidian://open?vault=Spell&file=03%20Projects%2FJob%20Application%2FCover%20Letter%20Drafts%2FCRB%20-%20Process%20Engineer%20I%20-%20New%20Grad.md`
