@@ -2,10 +2,16 @@
 company: Terumo BCT
 role: Engineer I - Manufacturing / Process Engineering
 location: Lakewood, Colorado (Denver metro)
-tier: Tier 1 (Medical Device Manufacturing  ChemE-adjacent)
+tier: Tier 1 (Medical Device Manufacturing - ChemE-adjacent)
 fit: Process/manufacturing engineering for blood/cell collection/processing devices
-salary_range: "$65,000$95,000 (estimated for entry-level process engineer)"
-status: " VERIFIED 2026-07-26 (company + multiple open roles)"
+salary_range: $65,000-95,000
+status: VERIFIED
+apply_url: https://careers.terumobct.com/go/Engineering,-Development-and-Software-Engineering-Jobs/3025600/
+req_id: Multiple (search portal)
+discovered_date: "2026-07-26"
+source: Terumo BCT careers portal + ZipRecruiter + Indeed
+verification_date: "2026-08-03"
+agent_notes: "Entry-level confirmed | 52+ open roles in Denver area (July 2026) | Strong location match | Browse portal for specific Engineer I opening"
 ---
 
 ## Application Status
