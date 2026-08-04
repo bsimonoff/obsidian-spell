@@ -1,9 +1,15 @@
 ---
 company: Chevron
 role: Engineering Dev Program
-location: Bay Area / Gulf Coast
+location: Houston, TX / Bay Area, CA
 salary_range: $85,000-95,000
 status: VERIFIED
+apply_url: https://careers.chevron.com/students-and-graduates/undergraduate-programs/downstream-engineering-development-program
+req_id: TBD
+discovered_date: "2026-08-03"
+source: Chevron careers portal
+verification_date: "2026-08-03"
+agent_notes: "Entry-level confirmed | Two-year program | Houston internship connection | Prefer interns for grad offers"
 ---
 
 ## Application Status
@@ -22,7 +28,7 @@ status: VERIFIED
 | **Company** | Chevron |
 | **Role** | Engineering Dev Program |
 | **Location** | Bay Area / Gulf Coast |
-| **Salary** | \(System.Collections.Hashtable.salary) |
+| **Salary** | $85,000-$95,000 |
 
 **Quick Assessment:**
 - [x] Entry-level: Yes
