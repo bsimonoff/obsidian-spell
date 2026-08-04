@@ -1,4 +1,4 @@
-﻿---
+---
 company: Amgen
 role: Process Dev Engineer
 location: Thousand Oaks, CA
