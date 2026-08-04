@@ -1,4 +1,4 @@
-﻿---
+---
 company: Agilent
 role: Process Validation Engineer
 location: Boulder, CO
