@@ -4,6 +4,12 @@ role: Process Engineer I
 location: Seattle, WA
 salary_range: $80,168-83,000
 status: VERIFIED
+apply_url: https://careers.evotec.com/en/job/seattle/process-engineer-i-site-based-seattle-wa/1296/22041415616
+req_id: "22041415616"
+discovered_date: "2026-08-03"
+source: Evotec careers portal
+verification_date: "2026-08-03"
+agent_notes: "Entry-level confirmed | Upstream process execution role | Strong location match (Seattle)"
 ---
 
 ## Application Status
@@ -22,7 +28,7 @@ status: VERIFIED
 | **Company** | Just-Evotec |
 | **Role** | Process Engineer I |
 | **Location** | Seattle, WA |
-| **Salary** | \(System.Collections.Hashtable.salary) |
+| **Salary** | $80,168-$83,000 |
 
 **Quick Assessment:**
 - [x] Entry-level: Yes
