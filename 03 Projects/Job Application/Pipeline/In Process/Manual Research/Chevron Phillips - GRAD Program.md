@@ -16,7 +16,7 @@ agent_notes: "Entry-level confirmed | Two-year GRAD rotational program | Multipl
 
 - [ ] Applied
 - [ ] Scrapped
-- [ ] No Opening
+- [x] No Opening
 
 **Title Applied As:** ___________________________
 
