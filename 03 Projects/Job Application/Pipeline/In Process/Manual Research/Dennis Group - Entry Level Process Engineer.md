@@ -1,4 +1,4 @@
-﻿---
+---
 company: Dennis Group
 role: Entry Level PE
 location: Austin, TX
