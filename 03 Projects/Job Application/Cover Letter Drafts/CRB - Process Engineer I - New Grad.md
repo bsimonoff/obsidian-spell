@@ -5,7 +5,7 @@ Benjamin Simonoff
 
 Dear Hiring Manager,
 
-I'm excited to apply for the Entry-Level Process Engineer position at CRB. As a recent Chemical Engineering graduate, I'm drawn to CRB's mission of designing sustainable facilities that improve people's lives—particularly in the life sciences and food and beverage sectors where chemical engineering principles drive innovation.
+I'm excited to apply for the Entry-Level Process Engineer position at CRB. As a recent Chemical Engineering graduate, I'm drawn to CRB's mission of designing sustainable facilities that improve people's lives.
 
 This role appeals to me because it combines the technical core of process engineering—heat transfer, material balances, equipment design—with hands-on collaboration on real projects. During my capstone project, I designed, optimized, and economically evaluated an ammonia synthesis facility. Furthermore, I undertook an additional design competition for Ball Corporation to create heat integration systems, demonstrating energy and carbon savings with a 
 
