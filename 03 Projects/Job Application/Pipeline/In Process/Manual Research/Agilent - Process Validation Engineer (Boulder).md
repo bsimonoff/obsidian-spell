@@ -15,7 +15,7 @@ agent_notes: "⚠️ NOT entry-level | Requires oligonucleotide API manufacturin
 ## Application Status
 
 - [ ] Applied
-- [ ] Scrapped
+- [x] Scrapped
 
 **Title Applied As:** ___________________________
 
