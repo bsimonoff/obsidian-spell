@@ -4,6 +4,12 @@ role: Engineer I Manufacturing
 location: Denver, CO
 salary_range: $65,000-95,000
 status: VERIFIED
+apply_url: https://careers.terumobct.com/
+req_id: TBD
+discovered_date: "2026-08-03"
+source: Terumo BCT careers portal
+verification_date: "2026-08-03"
+agent_notes: "Entry-level confirmed | Search careers.terumobct.com for Engineer I Manufacturing Denver | Strong location match"
 ---
 
 ## Application Status

@@ -2,8 +2,14 @@
 company: Regeneron
 role: Process Dev Engineer I
 location: Tarrytown, NY
-salary_range: $79,000-129,000
+salary_range: $70,300-110,100
 status: VERIFIED
+apply_url: https://jobs.biospace.com/job/3057084/process-development-engineer-i-purification-development/
+req_id: "3057084"
+discovered_date: "2026-07-16"
+source: BioSpace
+verification_date: "2026-08-03"
+agent_notes: "Entry-level (I-level) confirmed | ChemE/BiochemE required | 0-3 years exp"
 ---
 
 ## Application Status
@@ -22,7 +28,7 @@ status: VERIFIED
 | **Company** | Regeneron |
 | **Role** | Process Dev Engineer I |
 | **Location** | Tarrytown, NY |
-| **Salary** | \(System.Collections.Hashtable.salary) |
+| **Salary** | $70,300-$110,100 |
 
 **Quick Assessment:**
 - [x] Entry-level: Yes
