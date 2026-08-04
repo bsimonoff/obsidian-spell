@@ -2,8 +2,14 @@
 company: Regeneron
 role: Process Development Associate
 location: Tarrytown, NY
-salary_range: $79,000-129,000
+salary_range: $70,300-110,100
 status: VERIFIED
+apply_url: https://jobs.biospace.com/job/3045386/process-development-associate-purification-development/
+req_id: "3045386"
+discovered_date: "2026-05-01"
+source: BioSpace
+verification_date: "2026-08-03"
+agent_notes: "Entry-level confirmed | Original posting expired but repostings on BioSpace likely available"
 ---
 
 ## Application Status
@@ -22,7 +28,7 @@ Title Applied As: Regeneron - Process Development Associate (Purification)
 | **Company** | Regeneron |
 | **Role** | Process Development Associate |
 | **Location** | Tarrytown, NY |
-| **Salary** | \(System.Collections.Hashtable.salary) |
+| **Salary** | $70,300-$110,100 |
 
 **Quick Assessment:**
 - [x] Entry-level: Yes
