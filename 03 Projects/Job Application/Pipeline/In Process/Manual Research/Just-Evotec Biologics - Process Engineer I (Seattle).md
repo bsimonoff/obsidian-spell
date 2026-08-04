@@ -1,4 +1,4 @@
-﻿---
+---
 company: Just-Evotec
 role: Process Engineer I
 location: Seattle, WA
@@ -18,7 +18,7 @@ agent_notes: "Entry-level confirmed | Upstream process execution role | Strong l
 - [ ] Scrapped
 - [ ] No Opening
 
-**Title Applied As:** ___________________________
+**Title Applied As:** Associate Scientist, Purification
 
 ---
 
