@@ -7,7 +7,7 @@ Dear Hiring Manager,
 
 I'm excited to apply for the Entry-Level Process Engineer position at CRB. As a recent Chemical Engineering graduate, I'm drawn to CRB's mission of designing sustainable facilities that improve people's lives—particularly in the life sciences and food and beverage sectors where chemical engineering principles drive innovation.
 
-This role appeals to me because it combines the technical core of process engineering—heat transfer, material balances, equipment design—with hands-on collaboration on real projects. During my capstone project, I designed, optimized, and economically evaluated an ammonia synthesis facility. Furthermore, I undertook an additional design competition for Ball Corporation to create heat integration systems, demonstrating potential energy and carbon savings with a 
+This role appeals to me because it combines the technical core of process engineering—heat transfer, material balances, equipment design—with hands-on collaboration on real projects. During my capstone project, I designed, optimized, and economically evaluated an ammonia synthesis facility. Furthermore, I undertook an additional design competition for Ball Corporation to create heat integration systems, demonstrating energy and carbon savings with a 
 
 I bring a strong foundation in engineering fundamentals, proficiency in Microsoft Office and AutoCAD, and a proven ability to communicate complex technical concepts to diverse audiences. I'm eager to apply this foundation to matters of increasing complexity under the guidance of experienced mentors, and to grow into the technical leader that CRB's clients expect.
 
