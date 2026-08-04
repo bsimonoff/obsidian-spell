@@ -16,6 +16,7 @@ agent_notes: "Entry-level confirmed | Posting EXPIRED (no longer accepting appli
 
 - [ ] Applied
 - [ ] Scrapped
+- [x] No opening
 
 **Title Applied As:** ___________________________
 
