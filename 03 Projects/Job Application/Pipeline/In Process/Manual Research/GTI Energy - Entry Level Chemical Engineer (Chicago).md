@@ -1,4 +1,4 @@
-﻿---
+---
 company: GTI Energy
 role: Entry Level ChemE
 location: Chicago, IL
@@ -16,7 +16,7 @@ agent_notes: "Entry-level confirmed | Requires BS ChemE, expected graduation Spr
 
 - [ ] Applied
 - [ ] Scrapped
-- [ ] No Opening
+- [x] No Opening
 
 **Title Applied As:** ___________________________
 
