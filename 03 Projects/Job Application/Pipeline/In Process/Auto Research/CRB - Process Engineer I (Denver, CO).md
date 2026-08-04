@@ -14,7 +14,7 @@ agent_notes: "Entry-level confirmed - New Grad position, 0-3 years experience"
 
 ## Application Status
 
-- [ ] Applied
+- [x] Applied
 - [ ] Scrapped
 
 **Title Applied As:**
